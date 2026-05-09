@@ -18,8 +18,80 @@
 
 
 # Front-End Features Planned
- <!--- Please add the features planned in the SDD for front end here --->
+### FrontEnd (20 pts)
 
+**Workflow Description**
+The user initiates the authentication process by entering credentials into the `AuthComponent`. The `AuthController` captures this data and performs client-side validation to ensure the password meets the complexity requirements defined in the system security policies. Once validated, the `AuthService` (Back Interface) dispatches an asynchronous POST request to the API. Upon a successful authentication, the system stores the JWT token, updates the `UserAccount` model state, and redirects the user to the application dashboard.
+
+- **Agile Info:**
+  - **Story:** As a user, I want to create an account and log in sucurely so that my personal data is protected and accessible only to me.
+  - **Est Story Points:** 5
+  - **Assigned Responsible Engineer:** Parker Morgan
+**Classes**:
+* **Model**:
+    * **UML Class**:
+        <!-- Use https://mermaid.js.org/syntax/classDiagram.html: --->
+        classDiagram
+            class UserAccount {
+                +String email
+                +String passwordHash
+                +Boolean isAuthenticated
+                +String sessionToken
+                +serialize()
+            }
+    * ***Code Location***: `src/models/UserAccount.js`
+* **Control** 
+    * **UML Class**:
+        <!-- Use https://mermaid.js.org/syntax/classDiagram.html: --->
+        ```mermaid
+        classDiagram
+            class AuthController {
+                +processSignup(data)
+                +processLogin(creds)
+                +processReset(email)
+                +processLogout()
+                -validateForm(data)
+            }
+        ```
+        * **Create** (Function name): `processSignup`
+        * **Read** (Function name): `processLogin`
+        * **Update** (Function name): `processReset`
+        * **Delete** (Function name): `processLogout`
+        * ***Code Location***: `src/controllers/AuthController.js`
+
+* **View** (UML Class)
+    <!--- Use https://mermaid.js.org/syntax/classDiagram.html: --->
+    ```mermaid
+    classDiagram
+        class AuthComponent {
+            +renderSignupForm()
+            +renderLoginForm()
+            +renderResetForm()
+            +destroySessionUI()
+            -toggleLoader()
+        }
+* **User Interface (Wireframe)**:
+    * **Create** (Function name): `renderSignupForm`
+    * **Read** (Function name): `renderLoginForm`
+    * **Update** (Function name): `renderResetForm`
+    * **Delete** (Function name): `destroySessionUI`
+    * ***Code Location***: `src/views/AuthComponent.jsx`
+* **Back Interface** (UML Class):
+    ```mermaid
+    classDiagram
+        class AuthService {
+            +apiPostUser(payload)
+            +apiGetAuth(payload)
+            +apiPatchPassword(payload)
+            +apiDeleteSession()
+        }
+    ```
+    * **Create** (Function name): `apiPostUser`
+    * **Read** (Function name): `apiGetAuth`
+    * **Update** (Function name): `apiPatchPassword`
+    * **Delete** (Function name): `apiDeleteSession`
+    * ***Code Location***: `src/services/AuthService.js`
+    
 # Back-End Features Planned
 <!--- Please add the features planned in the SDD for back end here --->
 

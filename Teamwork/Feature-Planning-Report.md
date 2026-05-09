@@ -95,6 +95,105 @@ The user initiates the authentication process by entering credentials into the `
 # Back-End Features Planned
 <!--- Please add the features planned in the SDD for back end here --->
 
+* **Business Logic**:
+
+The backend validates credentials, hashes passwords before storage, authenticates users, and manages login sessions.
+
+```mermaid
+flowchart TD
+    A[Receive Request] --> B{Valid Input?}
+    B -- No --> C[Return Error]
+    B -- Yes --> D[Hash Password]
+    D --> E[Store or Retrieve User]
+    E --> F{Authentication Success?}
+    F -- Yes --> G[Create Session]
+    F -- No --> H[Return Authentication Error]
+```
+
+* Agile Info:
+
+  * Story: Backend authentication services
+  * Est Story Points: 5
+  * Assigned Responsible Engineer: 
+---
+
+**Classes**
+
+* **Models**:
+
+```mermaid
+classDiagram
+    class User {
+        +user_id
+        +email
+        +password_hash
+    }
+```
+
+* ***Code Location***:
+
+---
+
+* **Control**:
+
+```mermaid
+classDiagram
+    class AuthService {
+        +createAccount()
+        +authenticateUser()
+        +terminateSession()
+        +recoverPassword()
+    }
+```
+
+* **Create** (Function name): `createAccount()`
+* **Read** (Function name): `authenticateUser()`
+* **Update** (Function name): `recoverPassword()`
+* **Delete** (Function name): `terminateSession()`
+* ***Code Location***:
+
+---
+
+* **View** (UML Class)
+
+```mermaid
+classDiagram
+    class AuthRoutes {
+        +POST_register()
+        +POST_login()
+        +POST_logout()
+        +POST_reset()
+    }
+```
+
+* **Front-End API** ():
+
+  * **Create** (Function name): `POST_register()`
+  * **Read** (Function name): `POST_login()`
+  * **Update** (Function name): `POST_reset()`
+  * **Delete** (Function name): `POST_logout()`
+  * ***Code Location***:
+
+* **Database Interface** (UML Class):
+
+```mermaid
+classDiagram
+    class UserRepository {
+        +insertUser()
+        +findUserByEmail()
+        +updatePassword()
+        +deleteSession()
+    }
+```
+
+* **Create** (Function name): `insertUser()`
+* **Read** (Function name): `findUserByEmail()`
+* **Update** (Function name): `updatePassword()`
+* **Delete** (Function name): `deleteSession()`
+* ***Code Location***:
+
+---
+
 # Database Features Planned
 ### Database (20 pts)
 

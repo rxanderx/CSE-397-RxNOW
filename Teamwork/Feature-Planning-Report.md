@@ -114,7 +114,7 @@ flowchart TD
 
   * Story: Backend authentication services
   * Est Story Points: 5
-  * Assigned Responsible Engineer: 
+  * Assigned Responsible Engineer:Joe Tolley
 ---
 
 **Classes**

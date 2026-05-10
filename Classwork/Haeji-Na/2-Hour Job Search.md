@@ -4,8 +4,7 @@ It is expected that each student will work to complete the two hour Job Search T
 
 
 # April 26 - May 2
-* Part 1 Completed
-* [Link to LAMP Sheet](https://docs.google.com/spreadsheets/d/1s7HQQnK_c4v4L-r4u6MM8s9NvrQ3nyyKx3flqY9Cz6c/edit?usp=sharing)
+* [Part 1 Completed](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Haeji-Na/2-Hour%20Job%20Search/2hour-job-1.md)
 # May 2 - May 9
 * Step 2 of LinkedIn + Alumni + Facebook
 * Made 2 outreach emails using the templates and sent! 

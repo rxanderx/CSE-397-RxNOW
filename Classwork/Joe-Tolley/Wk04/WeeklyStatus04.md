@@ -1,8 +1,8 @@
-# Weekly Status - Week03
-
+# Weekly Status - Week04
+https://github.com/rxanderx/CSE-397-RxNOW/tree/main/Classwork/Joe-Tolley/Wk04
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.
-* [Link to Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/classMinutes.md
+* [Link to Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/Wk04/classMinutes.md)
 * [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-6.md)
 * [Link to Career Gold Living Document](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Career-Cert.md)
 * [Link to 2 Hour Job Search Living Document](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/2-Hour-Job-Search.md)

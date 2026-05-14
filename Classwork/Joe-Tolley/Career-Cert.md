@@ -1,26 +1,5 @@
 # Career Readiness Gold Certification
 
-## Objective:
-This assignment aims to help students build their professional network, practice informational interviewing, and develop their online professional presence. Students will submit a GitHub link to a markdown file containing the following:
-- **Summary of an 11 Informational Interview**
-- **List of 100 LinkedIn Connections**
-- **A 3 LinkedIn Post**
-- **A 2 LinkedIn Recommendation**
-- **Establish mentorship with a professional**
-
-As part of this course you will need to complete the Career Center's Career Readiness Gold Certification.
-
-**Gold Certification**
-
-On campus students who complete the Gold Certification will receive:
-
-* A LinkedIn Gold Certification
-* A gold ribbon for your name tag and lanyard
-
-Online students who complete the Gold Certification will receive:
-
-* A LinkedIn Gold Certification
-
 **Gold Certification Requirements**
 You will need to provide evidence that you have complete these tasks by contributing to the following linked content.
 * [Meet with Career Success Mentor](./Appointment/Readme.md)

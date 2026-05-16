@@ -8,6 +8,7 @@ Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning m
   - [Second Meeting](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-15.md)
 * [Link to Career Gold Living Document](../Career-Cert.md)
 * [Link to 2 Hour Job Search Living Document](../2-hour)
+* [RoleReport_Tolley](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/Wk04/RoleReport_Tolley.md)
 
 ## Section 2
 Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Week's Planning is attached here.

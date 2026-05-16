@@ -10,6 +10,8 @@ It is expected that each student will work to complete the two hour Job Search T
 * Step 2 of LinkedIn + Alumni + Facebook
 * Made 2 outreach emails using the templates and sent!
 # May 9 - May 16
+* Learned about having more effective informational interviews, the 80/20 rule, and how to research and prepare before informational interviews
+* Set a goal to have informational interviews with at least 2 of the 10 alumni who reach back out to me
 * Went back into my resume and updated it to reflect the current project we are working on for RxNow and the roles I'm taking on
 * Created [JobSearchTemplate](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Job%20Search%20Template.md) and began populating it with the jobs I apply to!
 * While looking into some of the dream jobs, I noted that learning Go (google coding lang) would be a huge pad for my resume and skillset! Started making a plan for learning that over the summer / doing a project with that

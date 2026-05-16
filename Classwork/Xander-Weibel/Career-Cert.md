@@ -7,5 +7,10 @@ It is expected that each student will work for about an hour each week to get th
 # May 2 - May 9
 * 10 Connections Added on Linkedin
 * Watched Linkedin Content Video on BYUI Cert page
-* Made a plan for Linkedin post this week
+* Made a plan for Linkedin posts in coming weeks
+# May 9 - May 16
+* Started targeting Linkedin connections for alumni who work at places I want to work
+* Sent weekly max of connections with a message - Goal: Alumni who can give advice (mentor) for job finding
+* Started planning what specific questions to bring to informational interviews (still need 5 more for a total of 11)
+* 8 Connections Added on Linkedin
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

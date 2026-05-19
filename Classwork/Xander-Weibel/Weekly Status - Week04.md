@@ -9,4 +9,5 @@ Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning m
 
 ## Section 2
 Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Week's Planning is attached here.
+* [Link to Weekly Role Planning Report](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Role_Planning_Reports/Role_Planning_Report_Wk04.md)
 * [Link to our Kanban board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)

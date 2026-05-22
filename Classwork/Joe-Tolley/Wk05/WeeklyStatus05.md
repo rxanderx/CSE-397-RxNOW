@@ -1,15 +1,6 @@
 # Tolley WeeklyStatus Wk05
 
 # Weekly 05 Tasking
-<!--Use this template to create your weekly gitHub Project file.
-. You will submit this every week.
-Points: 100 pts
-Instructions: 
-* Copy this to a new gitHub File and put it in your artifacts//dossier directory.
-* Fill in the Issue's attributes
-* Submit a Link of the GitHub issue to the Canvas course's weekly status.
--->
-
 <!-- 5 pts: Create of gitHub Issues-->
 **Story**: As a CSE 397 Student, I want to complete the following tasks this week, so that I can return and report on my success as a valuable member of the team. 
 
@@ -18,9 +9,9 @@ Update the GitHub issue attributes
 * **Author**:Joe Tolley
 * **Labels**:Documentation
 * **Type**:None
-* **Milestone**:Week 3 Milestone 0.0
-* **Projects**:https://github.com/byui-cse397/2026.2SprCSE397PCP/issues/159
-* **Development (Branch)**: Tolley_Wk04
+* **Milestone**:Week 5 Milestone 1.0
+* **Projects**:https://github.com/byui-cse397/2026.2SprCSE397PCP/issues/160
+* **Development (Branch)**: Tolley_Wk05
 
 <!-- 5 pts: Link to Personal Summary of Learning in artifacts
 Instructions: Please link your meeting notes to this checklist
@@ -37,13 +28,9 @@ Then check the box as complete.
  - [x] Professional Networking Certification: Career Services [Gold Certificate](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/Career-Cert.md) (every week)
  - [x] [Job-Interviewing](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk04/artifacts/staffing/Tolley/Gold/Tolley_infoInterviews.md)
 
-<!----------------------------
-Instructions: 
-------------------------------->
 ## Project Teamwork Meeting (10 pts)
 <!-- 10 pts: Link to meeting minutes from team meeting-->
- - [x] [Weekly Meeting with team](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-11.md)
- - [x] [Second meeting](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-15.md)
+ - [x] [Weekly Meeting with team](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-19.md)
 <!----------------------------
 ------------------------------->
 ## Project Individual Work (10 pts)

@@ -1,81 +1,89 @@
-# Tolley WeeklyStatus Wk05
-
 # Weekly 05 Tasking
+
 <!-- 5 pts: Create of gitHub Issues-->
 **Story**: As a CSE 397 Student, I want to complete the following tasks this week, so that I can return and report on my success as a valuable member of the team. 
 
+See [WeeklyTasking-05](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk05/project/management/scheduling/Week05.md)
+COPY TO ISSUE!
 ## Agile Issue (05 pts)
 Update the GitHub issue attributes
 * **Author**:Joe Tolley
 * **Labels**:Documentation
-* **Type**:None
-* **Milestone**:Week 5 Milestone 1.0
-* **Projects**:https://github.com/byui-cse397/2026.2SprCSE397PCP/issues/160
+* **Type**:
+* **Milestone**: Week 5 Milestone 1.0
+* **Projects**: byui-cse397/projects/34
 * **Development (Branch)**: Tolley_Wk05
+<!-- See project/enggering/processes/VersionControl.md,
+This should also match tasking information your made at the beginning of the semseter.
+/project/engineering/processes/StudentSetup.md
+--->
+
+
 
 <!-- 5 pts: Link to Personal Summary of Learning in artifacts
 Instructions: Please link your meeting notes to this checklist
 -->
-## Training/Class Meeting
- - [x] [ClassMinutes](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk04/artifacts/staffing/Tolley/Wk04/ClassNotes.md)
+## Training/Class Meeting [Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/May-19.md)(05 pts)
+ - [x] Training/Class Meeting - Training Notes (every week via zoom)
 
 
 <!-- 20 pts: Links to Career Readiness activites 
 Instructions: Please link your summaries to each of these activities for verification of completion. 
 Then check the box as complete. 
 -->
-## Individual Work (10 pts - 5 for Gold, 5 for Training)
- - [x] Professional Networking Certification: Career Services [Gold Certificate](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/Career-Cert.md) (every week)
- - [x] [Job-Interviewing](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk04/artifacts/staffing/Tolley/Gold/Tolley_infoInterviews.md)
+## Individual Work (10 pts - 5 for [Gold](../training/CC_CareerReadiness.md), 5 for [Training](../training/))
+ - [ ] Professional Networking Certification: Career Services Gold Certificate (every week)
+ - [ ] Professional Training
+    - The 2-Hour Job Search (Week 01-03)
+    - Job Search (Week 04-05)
+    - AWS Modules: Cloud Fundamentals (Week 06-11)
+    - Ethics (Week 12-14)
 
-## Project Teamwork Meeting (10 pts)
+
+<!----------------------------
+Instructions: 
+------------------------------->
+## Project Teamwork Meeting [Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-19.md)(10 pts)
 <!-- 10 pts: Link to meeting minutes from team meeting-->
- - [x] [Weekly Meeting with team](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/May-19.md)
+ - [x] Weekly Meeting with team (every week - arranged by your team)
+
 <!----------------------------
 ------------------------------->
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:
 * What did I do yesterday to help meet the Sprint Goal?
-
-I worked on Back-End Visual representations on just what the server will be doing and how the workflow will be established. With more information from my end, the other components can be worked on efficiently and accurately.
-  
 * What will I do today to help meet the Sprint Goal?
-
-Our team is taking a couple meetings this week to distribute tasking and show progress. I am planning to do a back-end server with very bare bones functionality, stubs if needs be.
- 
 * Do I see any impediment that prevents me or the team from meeting the Sprint Goal.
 
-We are down a person, so covering that area will be a difficulty. Also our team schedule differs a bit from the scheduled schedule and we just hope to have a bit of leeway to allow us the most effective approach.
+Since this is a 3 credit class, and you are spending about 9 hours a week working on this class, it is equivalent to a normal business day. Your weekly status will be your Agile Daily Scrum report.
 
 ### What did you do yesterday to help meet the Sprint Goal?
 <!-- 10 pts: Link to feature planning tasking-->
-* (Feature or Role) and Research Planning Tasking (10 pts)
+* ([Feature](../management/planning/featurePlanningReport.md) or [Role](../management/planning/rolePlanningReport.md)) and [Research](../engineering/practices/Research/Readme.md) Planning Tasking (10 pts)
+    <!-- Feature Planning
+        Create a link to your copy of the <project/management/planning/featureReport.md>, that you put in the artifacts/<team>/project/engineering/detaileddesign directory -->
+    - [ ] Feature Planning Tasking (every odd week)[project/management/planning]
     <!-- Role Planning
         Create a link to your copy of the <project/management/planning/rolePlanningReport.md>, that you put in the artifacts/<team>/project/engineering/methodology/ directory -->
-    - [x] [Role Planning Tasking](https://github.com/byui-cse397/2026.2SprCSE397PCP/edit/Tolley_Wk04/artifacts/staffing/Tolley/Wk04/RoleReport_Tolley.md)
-      - [x] SRS updated to match Louis Standards -Xander
-      - [x] Requirement Gathering from Louis -Xander
-      - [x] VDD updated to match SRS implementation -Xander
-      - [x] Documentation Updated for weekly deliverables -Xander
-      - [x] [Flowchart for backend processes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/backEnd-visuals.md) -Joe
-      - [X] Flowchart of what data goes where for Database - Haeji
-      - [x] Prototype / Wireframe for frontend -Parker
-      - [x] Create ERD to reflect classes -Josh
-      - [x] Creat UML class diagrams: User, Medication, Notification, RefillRequest, etc -Josh
-      - [x] Flowchart of what data goes where for Database - Josh
+    - [ ] Role Planning Tasking (every even eek)[project/management/planning]
+    <!-- Research Tasking
+        Create a link to your teams copy of the <project/engineering/practices/research>, that you put a copy of in the artifacts/engineering/research directory      --> 
+   - [ ] Research Tasking (05 pts) (every other week)[/project/engineering/practices/research] 
+
+
 
 
 <!----------------------------
 ------------------------------->
- - [x] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
+ - [ ] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
 - Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
 <!-- List all the issues that you completed this week and what you plan on working next week.
 
 Replace each of the Feature and Research Stories with the actual stories assigned to you. -->
 
 <!-- 50 pts: Links to Product tasking issues -->
-* Scheduled Tasking completed This week (50 pts - 10 pts per completed task)
-    <!-- Completed Feature Stories
+* [Scheduled](../management/scheduling/Readme.md) Tasking completed This week (50 pts - 10 pts per completed task)
+    <!-- Completed Feture Stories
     During your team meeting you share your stories that you created doing the Feature Planning
     Copy the stories/issue information that were assigned to you through your team meeting.
     Replace each item below with the following information and format, seperated by :
@@ -86,26 +94,25 @@ Replace each of the Feature and Research Stories with the actual stories assigne
         i.e. #1: **Master Issue**: *Clements*
     Expectations that you complete at least 5 tasks, list more if applicable.
     See /project/management/scheduling/Readme.md
-    -->
-    - Role Stories
-        - [x] 3.1. Contribution to [SDD](https://github.com/louisramos23/RXNOW/edit/main/delv/SoftwareDesignDocumentSDD.md)
-        - [x] 3.6. [Additional visuals for SDD](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/backEnd-visuals.md)
-            - [x] 3.6.1 Backend Systems Architecture
-            - [x] 3.6.2 Backend Server Components
-            - [x] 3.6.3 Medication CRUD flow
-            - [x] 3.6.4 Authentication Workflow
-            - [x] 3.6.5 Refill Workflow
-            - [x] 3.6.6 Notification Engine
-            - [x] 3.6.7 Folder Structure
-            - [x] 3.6.8 BackEnd-Responsibilities
+    --> 
+    - [Feature](../management/planning/featurePlanningReport.md) Stories
+        - [x] x.1. Role
+        - [x] x.2. Front-End
+        - [x] x.3. Back-End
+        - [x] x.4. Database
+        - [x] x.5. Research
+
+    Where x is the week tasking.
+
 <!-- 5 pts: Links to Product tasking issues -->
-* Planned Next Week stories (5 pts - list of 5+)
-    - Feature Stories
-      * Story 5.1: Role  
-      * Story 5.2: Front-End
-      * Story 5.3: Back-End
-      * Story 5.4: Databasse
-      * Story 5.5: Research
+* [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Planned Next Week stories (5 pts - list of 5+)
+    - Future [Role](../management/planning/rolePlanningReport.md)
+        - [ ] x.1.
+        - [ ] x.2. 
+        - [ ] x.3. 
+        - [ ] x.4. 
+        - [ ] x.5.
+
 
 ### Rubric
 *	05 pts – Agile Information

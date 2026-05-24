@@ -32,10 +32,10 @@ Choose one new insight or skill gap you discovered from a job application and tu
 
 Answer the following:
 * What did you learn that you didn’t know before this week’s applications?
-    > (Example: “I didn’t realize that many jobs require familiarity with CRM software like Salesforce.”)
+  > I found that having proficiency in the Go Language is a huge skill that gives me a lot of leverage to work with my dream companies.
 * Why is this important in your target industry or role?
-    > (Example: “It’s used in sales and marketing roles to manage customer relationships and data.”)
+  > This is important in my target industry because Go is a very flexible language and many groups have small teams that work with the Go language.
 * What specific mini-project or action will you take this week to start learning or building that skill?
-    > (Example: “Watch a beginner tutorial on Salesforce and create a practice contact database.”)
+  > I will plan a mini-project to write in Go over the remainder of the semester
 * How will you track your progress?
-    > (Example: “Upload a screenshot of my Salesforce dashboard and write 2–3 sentences about what I learned.”)
+ > I will document my development in a VDD on github

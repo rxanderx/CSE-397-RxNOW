@@ -13,4 +13,7 @@ It is expected that each student will work for about an hour each week to get th
 * Sent weekly max of connections with a message - Goal: Alumni who can give advice (mentor) for job finding
 * Started planning what specific questions to bring to informational interviews (still need 5 more for a total of 11)
 * 8 Connections Added on Linkedin
+# May 16 - May 23
+* Networked a Mentor connection who I can have 1/5 remaining informational interviews with
+* Scheduled Career Center photo take for new professional photo
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

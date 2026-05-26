@@ -2,7 +2,17 @@
 It is expected that each student will work for about an hour each week to get their certification by the end of the semester.
 
 # April 26 - May 2
-* 
+* Fired off connection requests to as many people as I recognized by name, especially to those with relevant backgrounds or experience.
+
 # May 2 - May 9
-* 
-* [Linkedin Page for current progress]()
+* Read part 1 of 2HJS; created LAMP list
+
+
+
+
+
+# May 17 - May 23
+* Finished readinng 2HJS 
+* Finished filling out the associated reports
+* Requested meetings with several personal contacts (IRL 2nds and 3rds)
+* [Linkedin Page for current progress](https://www.linkedin.com/in/joshpalmerk/)

@@ -15,3 +15,5 @@ It is expected that each student will work to complete the two hour Job Search T
 * Went back into my resume and updated it to reflect the current project we are working on for RxNow and the roles I'm taking on
 * Created [JobSearchTemplate](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Job%20Search%20Template.md) and began populating it with the jobs I apply to!
 * While looking into some of the dream jobs, I noted that learning Go (google coding lang) would be a huge pad for my resume and skillset! Started making a plan for learning that over the summer / doing a project with that
+# May 16 - May 23
+* I was very busy this week and pushed the work for job search back from this week to next vv see the below week

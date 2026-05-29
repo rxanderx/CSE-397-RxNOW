@@ -23,4 +23,4 @@ It is expected that each student will work for about an hour each week to get th
 
 # May 24 - May 31
 * Finished AWS module 1
-* 
+* Finished module 2 as well

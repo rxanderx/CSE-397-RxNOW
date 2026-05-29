@@ -16,3 +16,8 @@ It is expected that each student will work for about an hour each week to get th
 * Finished filling out the associated reports
 * Requested meetings with several personal contacts (IRL 2nds and 3rds)
 * [Linkedin Page for current progress](https://www.linkedin.com/in/joshpalmerk/)
+
+
+# May 24 - May 31
+* Finished AWS module 1
+* 

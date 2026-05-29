@@ -8,7 +8,10 @@ It is expected that each student will work for about an hour each week to get th
 * Read part 1 of 2HJS; created LAMP list
 
 
-
+# May 10 - May 16
+* Sent follow-ups for Informational interviews
+* Contacted potential employers
+* Read 2HJS part 2
 
 
 # May 17 - May 23

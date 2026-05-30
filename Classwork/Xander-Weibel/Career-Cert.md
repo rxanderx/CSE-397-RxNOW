@@ -15,5 +15,9 @@ It is expected that each student will work for about an hour each week to get th
 * 8 Connections Added on Linkedin
 # May 16 - May 23
 * Networked a Mentor connection who I can have 1/5 remaining informational interviews with
+* Reached out to additional connections on LinkedIn and started building relationships to set more inf. interviews
+# May 23 - May 30
+* 5 New connections on linkedin
+* One informational interview conducted (still need 4 more for total of 11)
 * Scheduled Career Center photo take for new professional photo
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

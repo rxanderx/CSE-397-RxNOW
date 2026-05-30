@@ -1,4 +1,4 @@
-# This is a living document tracking the progress towards The 2-Hour Job Search and other training modules
+# This is a living document tracking the progress towards The 3-Hour Job Search and other training modules
 It is expected that each student will work to complete the two hour Job Search Training.
 * [The Instructions for this task](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/development/project/training/2HourJobSearch.md)
 
@@ -17,3 +17,9 @@ It is expected that each student will work to complete the two hour Job Search T
 * While looking into some of the dream jobs, I noted that learning Go (google coding lang) would be a huge pad for my resume and skillset! Started making a plan for learning that over the summer / doing a project with that
 # May 16 - May 23
 * I was very busy this week and pushed the work for job search back from this week to next vv see the below week
+# May 23 - May 30
+* Finished up part 3 of the worksheet
+* Conducted an informational interview
+* Created the summary of how prioritization improves the job search
+* Shared the principles of the 3 hour job search with classmates from my business class
+* ~~End of work on this project, finished it but it took me an extra week. Learned and applied a lot~~

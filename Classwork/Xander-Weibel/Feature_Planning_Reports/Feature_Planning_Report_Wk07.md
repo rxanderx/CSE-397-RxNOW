@@ -289,12 +289,16 @@ erDiagram
 ---
 
 ### Review
-- [x] All elements of the form are filled out
-    - [x] Reference
-    - [x] Traceability
-    - [x] Agile
-    - [x] Detailed Design
-- [x] Epic Story is created in the project's repo [Issue](https://miro.com/app/board/uXjVHW1B9x4=/)
-- [x] Sub stories are created as the project's repo [Issues](https://miro.com/app/board/uXjVHW1B9x4=/)
-- [x] All stories/issues project attributes are filled out
-- [x] Team members have reviewed the items
+- [ ] All elements of the form are filled out
+    - [ ] Reference
+    - [ ] Traceability
+    - [ ] Agile
+    - [ ] Detailed Design
+- [ ] Epic Story is created in the project's repo Issue
+    * Issue Number (Reference):
+- [ ] Sub stories are created as the project's repo Issues
+    * Issue Number 1 (Front-End):
+    * Issue Number 2 (Back-End):
+    * Issue Number 3 (Database):
+- [ ] All stories/issues project attributes are filled out
+- [ ] Team members have reviewed the items

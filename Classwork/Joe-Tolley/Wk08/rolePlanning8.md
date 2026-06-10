@@ -41,10 +41,7 @@
 Sub-Tasking has been divided amongst the group in the [miro board](https://miro.com/app/board/uXjVHW1B9x4=/?focusWidget=3458764670953758822)
 and we have accomplished a roadmap of what we plan to do. Our next focus will be making a bare bones version that combines the FE, BE, and Database communication.
 - [x] Tasking for back-end role
-- [ ] Fix notifications not showing
-- [ ] Fix providers not deletable
-- [ ] Fix refill requests not saving state
-- [ ] Fix refill requests not displaying in refill sccreen
+- [ ] Re-work backend to work with cloud and local storage
 - [ ] Add installation documentation
 - [ ] Pick next feature to implement
 - [ ] Testing through the test plan to find errors

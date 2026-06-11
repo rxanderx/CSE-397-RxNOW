@@ -21,9 +21,9 @@ Approximately 20 hours, when delivered synchronously by an educator
 
 ## Table of Contents
 
-- [ ] Module 1: Cloud Concepts Overview -- In Progress
-- [ ] Module 2: Cloud Economics and Billing
-- [ ] Module 3: AWS Global Infrastructure
+- [ ] Module 1: Cloud Concepts Overview -- Done
+- [ ] Module 2: Cloud Economics and Billing -- Done
+- [ ] Module 3: AWS Global Infrastructure -- In Progress
 - [ ] Module 4: Cloud Security
 - [ ] Module 5: Networking and Content Delivery
 - [ ] Module 6: Compute

@@ -31,12 +31,12 @@
 ## Informational Interview 4
 - Name: Sean Carpenter
 - Workplace: Infinity Labs
-- Position: [Add Position]
+- Position: Principle Investigator
 - Company Overview: Infinity Labs works with the rising demand for RL-focused work in government contracts, including DoD-related needs.
 - Insights: Demand signals from government contracts are shaping priorities and creating opportunities for engineers who can adapt quickly.
 - How They Started: Unknown
-- Opinions: This path looks strong for mission-focused engineering with practical impact.
-- Goals/Follow Up: Keep building skills that map directly to contract needs and mission delivery
+- Opinions: I enjoy how fast paced their work is with direct application into real world systems. I enjoy their focus on research and staying cutting edge.
+- Goals/Follow Up: Join their team. Learn about CI/CD and RL in simulation
 
 ## Informational Interview 5
 - Name: Sandy Veautour

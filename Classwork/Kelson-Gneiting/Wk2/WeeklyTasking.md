@@ -24,7 +24,6 @@ Update the GitHub issue attributes
 
 ## Training/Class Meeting (05 pts)
  - [x] [Training/Class Meeting](../classmeetingnotes/April%2028th.md) - Training Notes (every week via zoom)
- - [x] [Class Meeting Notes](./April%2028th%20TeamMinutes.md)
 
 ## Individual Work (10 pts - 5 for [Gold](../Gold/Gneiting_CertificationReport.md), 5 for [Training](../2hr%20Job%20Search/Part2.md))
  - [x] Professional Networking Certification: [Career Services Gold Certificate](../Gold/Gneiting_CertificationReport.md) (every week)
@@ -35,36 +34,43 @@ Update the GitHub issue attributes
     - AWS Modules: Cloud Fundamentals (Week 06-11)
     - Ethics (Week 12-14)
 
-## Project Teamwork Meeting [Minutes](./ConOpsMtgMinutes.md)(10 pts)
- - [ ] Weekly Meeting with team (every week - arranged by your team)
- - [ ] [Team Meeting Notes](./April%2028th%20TeamMinutes.md)
- - [ ] [Concept of Operations Meeting](./ConOpsMtgMinutes.md)
+## Project Teamwork Meeting (10 pts)
+ - Weekly Meeting with team (every week - arranged by your team)
+ - [x] [Team Meeting Notes](./April%2028th%20TeamMinutes.md)
 
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:
 * What did I do yesterday to help meet the Sprint Goal?
 
+I continued to learn about Job roles, the product goals and specifics, and how to plan for success in the areas that matter
+
 * What will I do today to help meet the Sprint Goal?
+
+I will work on developing features that achieve the planned goals. I will do research to understand what is needed
 
 * Do I see any impediment that prevents me or the team from meeting the Sprint Goal.
 
+Getting used to all the different parts of the tech stack
+
 ### Planning Tasking (10 pts)
 * ([Role](./Gneiting_rolePlanningReport.md)) Planning Tasking (10 pts - Role Planning Week)
-    - [ ] Role Planning Tasking (even week) [Role Planning Report](./Gneiting_rolePlanningReport.md)
+    - [x] Role Planning Tasking (even week) [Role Planning Report](./Gneiting_rolePlanningReport.md)
 
 ## Scheduled Tasking This week (50 pts - 10 pts per completed task)
 * Week 2 Stories - Elicitation Activities
-    - [ ] 2.1: **Brainstorming & Customer Meeting** - [Brainstorming](./Gneiting_Brainstorming.md), [Customer Meeting](./CustomerMtgMinutes.md)
-    - [ ] 2.2: **Document Analysis** - [Document Analysis](./Gneiting_DocAnalysis.md)
-    - [ ] 2.3: **Empathy** - [Empathy User](./Gneiting_EmpathyUser.md)
-    - [ ] 2.4: **Introspection** - [Introspection](./Gneiting_Introspection.md)
-    - [ ] 2.5: **Overview Analysis** - [Project Model](./ProjectModel.md)
-    - [ ] 2.6: **Quality Model** - [Quality Model](./Gneiting_QualityModel.md)
+    - [x] 2.1: **Brainstorming & Customer Meeting** - [Brainstorming](./Gneiting_Brainstorming.md), [Customer Meeting](./CustomerMtgMinutes.md)
+    - [x] 2.2: **Document Analysis** - [Document Analysis](./Gneiting_DocAnalysis.md)
+    - [x] 2.3: **Empathy** - [Empathy User](./Gneiting_EmpathyUser.md)
+    - [x] 2.4: **Introspection** - [Introspection](./Gneiting_Introspection.md)
+    - [x] 2.5: **Overview Analysis** - [Project Model](./ProjectModel.md)
+    - [x] 2.6: **Quality Model** - [Quality Model](./Gneiting_QualityModel.md)
 
 ## Week 3 Planning (5 pts - Feature Planning Week)
     - [ ] [Weekly Status Report](../Wk3/Gneiting_WeeklyStatus.md)
     - [ ] [Feature Planning Report](../Wk3/Gneiting_featurePlanningReport.md)
     - [ ] [Team Meeting Minutes](../Wk3/Gneiting_MeetingMinutes.md)
+    - [ ] [Class Meeting Summary - May 5](../../Class-Notes/May-5.md)
+    - [ ] Contribute to SRS
     - [ ] Complete 2-Hour Job Search Part 3
     - [ ] Continue AWS Training modules
 

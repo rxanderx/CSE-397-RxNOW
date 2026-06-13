@@ -9,24 +9,24 @@
 - Goals/Follow Up: Contribute to vLLM and build a consistent open source contribution record on GitHub.
 
 ## Informational Interview 2
-- Name: TBD
-- Workplace: [Add Workplace]
-- Position: [Add Position]
-- Company Overview: [Add summary of what the company does]
-- Insights: [Add key takeaways]
-- How They Started: [Add how they entered their role/career]
-- Opinions: [Add what stood out as exciting or not a fit]
-- Goals/Follow Up: [Add your next step]
+- Name: Steve Prescott
+- Workplace: INL
+- Position: Systems Engineer
+- Company Overview: Heads Nuclear Sciences as well as Clean Energy programs. 
+- Insights: Contracts = Connections, If searching for a job always do internships, Check out SULI
+- How They Started: Doing Contract Work for INL on a personal level
+- Opinions: Super fun to be on the forefront of Engineering. He spoke of alot of documents and limitations as a part of the Government
+- Goals/Follow Up: Check out SULI
 
 ## Informational Interview 3
-- Name: TBD
-- Workplace: [Add Workplace]
-- Position: [Add Position]
-- Company Overview: [Add summary of what the company does]
-- Insights: [Add key takeaways]
-- How They Started: [Add how they entered their role/career]
-- Opinions: [Add what stood out as exciting or not a fit]
-- Goals/Follow Up: [Add your next step]
+- Name: Brayden Sanders
+- Workplace: Valt Enterprise
+- Position: Mech Engineer
+- Company Overview: Aerospace Science with a priorty in rockets and hypersonic activity
+- Insights: Networking doesnt have to be Linkedin or a connection with someone you know. Public events are great spaces to network
+- How They Started: His Cousins Wedding -> A friend of someone he spoke to -> a failed interview -> an internship at Valt
+- Opinions: I would hate to be stuck in Maine. The job sounds super cool but the east coast does not intrest me.
+- Goals/Follow Up: Practice interview skills and open your mouth at events. 
 
 ## Informational Interview 4
 - Name: Sean Carpenter
@@ -41,9 +41,9 @@
 ## Informational Interview 5
 - Name: Sandy Veautour
 - Workplace: Torch Technologies
-- Position: [Add Position]
-- Company Overview: Torch Technologies operates in a similar government-contract space, addressing related demand with a different organizational approach.
+- Position: Advisor
+- Company Overview: Torch Technologies operates in a government-contract space, addressing related demand with the DOD and other defense focused projects.
 - Insights: Companies in the same market can differ a lot in team structure, delivery style, and day-to-day engineering culture.
-- How They Started: [Add how Sandy entered this work path if discussed]
-- Opinions: "Same market, different model" is important when evaluating where I will do my best work.
-- Goals/Follow Up: Compare both mission and work style before deciding where to apply.
+- How They Started: N/A
+- Opinions: Alabama does not sound like a place to work. I get huntsville being there but Id rather something closer. Really cool work (at least what she could tell me)
+- Goals/Follow Up: Know what you want in a job, lifestlye you want around a job, and then dont downplay your knowledge. 

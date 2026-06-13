@@ -1,4 +1,4 @@
-# Weekly Status - Week05
+# Weekly Status - Week07
 
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.

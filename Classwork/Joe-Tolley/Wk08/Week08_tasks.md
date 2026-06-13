@@ -14,11 +14,16 @@
 * [SW Intallation Guide]()
 
 ## Work to complete (stories)
-* Story 8.1: Role  
-* Story 8.2: Front-End
-* Story 8.3: Back-End
-* Story 8.4: Databasse
-* Story 8.5: Installation Guide
+
+- [x] Tasking for [back-end role](https://miro.com/app/board/uXjVHW1B9x4=/?focusWidget=3458764670953758822)
+- [x] Re-work backend to work with [cloud](https://rxnow-backend-latest.onrender.com/) and local storage
+- [x] Coordinate with Josh for [Installation documentation](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/backendInstall.docx)
+- [x] Pick next [feature to implement](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareRequirementsSpecification.md)
+- [x] Testing through the [test plan to find errors](https://github.com/louisramos23/RXNOW/blob/main/Documents/RxNow-Test-Plan-v0.2.pdf)
+- [x] Update the [backend-visuals](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/backendVisuals-v2.md)
+- [x] Coordinate with Haeji about remaining [cloud database needs](https://console.aiven.io/account/a5b8f416d938/project/rxnow-1/services/mysql/overview)
+- [x] Coordinate with Xander about new architecture for App, documented in the [project repo](https://github.com/louisramos23/RXNOW/tree/main)
+
 
 ## Deliverables
 - Container images or installers and deployment examples.

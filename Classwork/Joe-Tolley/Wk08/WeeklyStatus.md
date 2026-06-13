@@ -39,17 +39,16 @@ Plan to establish with the team what feature to work on next, this should be don
 Coordination and getting everyone on the same page is not easy. Translation of what Louis wants with the product is ongoing. We generally work most closely on Fri/Sat and are a bit rushed towards the end.
 
 ### What did you do yesterday to help meet the Sprint Goal?
- - [x] Issue Tasking (every week)[Repo issues](https://miro.com/app/board/uXjVHW1B9x4=/) (50 pts - 5 per week @ 10 pts each)
- - [x] [Role Planning Tasking](rolePlanning.md)
- - [x] 
- - [ ] 
- - [x]	
- - [x]	Add bug fix issues to tasking
- - [x]	Continue to integrate between FE-BE-DB
- - [x]	Optimize BE updating through docker and render
- - [x]	Testing for BE
 
-<!-- 5 pts: Links to Product tasking issues -->
+- [x] Tasking for [back-end role](https://miro.com/app/board/uXjVHW1B9x4=/?focusWidget=3458764670953758822)
+- [x] Re-work backend to work with [cloud](https://rxnow-backend-latest.onrender.com/) and local storage
+- [x] Coordinate with Josh for [Installation documentation](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Joe-Tolley/backendInstall.docx)
+- [x] Pick next [feature to implement](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareRequirementsSpecification.md)
+- [x] Testing through the [test plan to find errors](https://github.com/louisramos23/RXNOW/blob/main/Documents/RxNow-Test-Plan-v0.2.pdf)
+- [x] Update the [backend-visuals](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/backendVisuals-v2.md)
+- [x] Coordinate with Haeji about remaining [cloud database needs](https://console.aiven.io/account/a5b8f416d938/project/rxnow-1/services/mysql/overview)
+- [x] Coordinate with Xander about new architecture for App, documented in the [project repo](https://github.com/louisramos23/RXNOW/tree/main)
+
 * Back-End Lead-Role
     - Future
         - [x] 8.1 Deploy the application to a staging/production environment using automated pipelines.

@@ -16,21 +16,21 @@ See [Weekly Tasking](../management/scheduling/Readme.md) for each weeks tasking.
 ## Agile Issue (05 pts)
 Update the GitHub issue attributes
 * **Author**: Kelson Gneiting
-* **Labels**: Requirements & Elicitation
+* **Labels**: Documentation and Elicitation
 * **Type**: N/A
-* **Milestone**: 0.1
+* **Milestone**: 0.0
 * **Projects**: CSE397 PCP 2026.02Spring
-* **Development (Branch)**: N/A 
+* **Development (Branch)**: Wk2 
 
-## Training/Class Meeting [Minutes](./April%2028th%20TeamMinutes.md)(05 pts)
- - [ ] Training/Class Meeting - Training Notes (every week via zoom)
- - [ ] [Class Meeting Notes](./April%2028th%20TeamMinutes.md)
+## Training/Class Meeting (05 pts)
+ - [x] [Training/Class Meeting](../classmeetingnotes/April%2028th.md) - Training Notes (every week via zoom)
+ - [x] [Class Meeting Notes](./April%2028th%20TeamMinutes.md)
 
 ## Individual Work (10 pts - 5 for [Gold](../Gold/Gneiting_CertificationReport.md), 5 for [Training](../2hr%20Job%20Search/Part2.md))
- - [ ] Professional Networking Certification: [Career Services Gold Certificate](../Gold/Gneiting_CertificationReport.md) (every week)
- - [ ] Professional Training
+ - [x] Professional Networking Certification: [Career Services Gold Certificate](../Gold/Gneiting_CertificationReport.md) (every week)
+ - [x] Professional Training
     - The 2-Hour Job Search (Week 01-03)
-        - [ ] Part 2 [Part 2](../2hr%20Job%20Search/Part2.md)
+        - [x] Part 2 [Part 2](../2hr%20Job%20Search/Part2.md)
     - Job Search (Week 04-05)
     - AWS Modules: Cloud Fundamentals (Week 06-11)
     - Ethics (Week 12-14)

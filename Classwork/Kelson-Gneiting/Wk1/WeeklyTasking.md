@@ -20,7 +20,7 @@ Update the GitHub issue attributes
 * **Type**: N/A
 * **Milestone**: 0.0
 * **Projects**: CSE397 PCP 2026.02Spring
-* **Development (Branch)**: N/A 
+* **Development (Branch)**: Wk1
 <!-- See project/enggering/processes/VersionControl.md,
 This should also match tasking information your made at the beginning of the semseter.
 /project/engineering/processes/StudentSetup.md

@@ -6,12 +6,12 @@
 - Verify installation steps on target environments and document differences.
 
 ## Classwork
-- [Work on Gold Certificate](../../training/CC_CareerReadiness.md)
-- [Work on Career Prepartion: AWS Module 05 & 06](../../training/AWSTraining.md)
+- [Work on Gold Certificate](../Career-Cert.md)
+- [Work on Career Prepartion: AWS Module 05 & 06]()
 
 ## Planning / Preparation
-* [Role Planning](../planning/rolePlanningReport.md)
-* [SW Intallation Guide](../../engineering/documents/5.Installation/Readme.md)
+* [Role Planning](rolePlanning8.md)
+* [SW Intallation Guide]()
 
 ## Work to complete (stories)
 * Story 8.1: Role  
@@ -27,5 +27,5 @@
 
 ## Reporting
 - [Class Meeting minutes summary](../meetingminutes/Readme.md)
-- [Team Meeting minutes summary](../meetingminutes/Readme.md)
-- [Weekly Status / Tasking](../../tasking/Readme.md)
+- [Team Meeting minutes summary](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/Jun%2010.md)
+- [Weekly Status / Tasking](Week08_tasks.md)

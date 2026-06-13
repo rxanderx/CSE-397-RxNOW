@@ -1,4 +1,4 @@
-# Executive Summary: CSE 397 Lecture Minutes
+# CSE 397 Lecture Minutes
 **Date:** June 9, 2026  
 **Instructor:** William Clements  
 **Course:** CSE 397: Professional Career Project  

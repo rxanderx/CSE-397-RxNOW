@@ -2,7 +2,7 @@
 
 **Gold Certification Requirements**
 You will need to provide evidence that you have complete these tasks by contributing to the following linked content.
-* [Meet with Career Success Mentor](./Appointment/Readme.md)
+* [Meet with Career Success Mentor](https://www.byui.edu/career/career-success-certification)
   * With the End in Mind, you will setup a meeting with Career Services to review your GOLD Certification requirements before the end of the semester.
 * [Complete the Silver Certification](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk03/artifacts/staffing/Tolley/silvercert.pdf)
   * The gold is the third level of the stacked certification, if you have not aready done so you will need to complete:
@@ -20,12 +20,6 @@ You will need to provide evidence that you have complete these tasks by contribu
   * I have a positive correspondence with Destiny Ayabi who is founder of SeekLink Foundation, we have worked together often and while he's more of a business type, it certainly bleeds into my field of study.
     Soft skill development is what I would mostly call it and it is vital.
 
-**[Completed Gold Certification](./GoldCertificaiton/Readme.md)**
+**[Completed Gold Certification]()**
 * When finished, you will upload your professional certifications pdf to both gitHub and to the iLearn class assignment.
 
-## Deliverable:
-Gold Students Progress Reports
-*  Make a copy of the [CertificationTemplate.md](CerificationTemplate.md), and rename it [StudentName]_CertificationReport.md.
-* Put this file in artifacts/project/staffing/ your dossier directory.
-* Add a link to your file in your dossier md file.
-* Add a table entry to the artifacts/project/training/professionalnetworking/Readme.md file.

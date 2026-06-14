@@ -27,4 +27,10 @@ It is expected that each student will work for about an hour each week to get th
 * Finished module 2 as well
 
 ## Jun 1 - Jun 6
-* Finished AWS modules 3, 4, 5, 
+* Finished AWS modules 3, 4, 5, and 6
+
+## Jun 8 - 13
+* Informational interview #1 (#7 overall for gold cert; I already have silver)
+* Informational interview #2 (#8 overall)
+* AWS Module 7
+* Received postgrad job offer

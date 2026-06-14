@@ -55,8 +55,8 @@ Gold Students Progress Reports
 
 ### Informational Interviews
 * Interview 1: Austin Veselka
-* Interview 2: TBD
-* Interview 3: TBD
+* Interview 2: Steve Prescott
+* Interview 3: Brayden Sanders
 * Interview 4: Sean Carpenter
 * Interview 5: Sandy Veautour
 * Interview 6:

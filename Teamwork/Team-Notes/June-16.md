@@ -3,8 +3,6 @@
 **Date:** June 16, 2026  
 **Time:** 10:34 PM  
 **Duration:** 21 minutes  
-**Recording Reference:** RxNow-20260616_163428  
-**Transcription Started By:** Xander Weibel  
 
 ---
 

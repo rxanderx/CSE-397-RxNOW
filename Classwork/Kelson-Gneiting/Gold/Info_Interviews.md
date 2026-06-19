@@ -47,3 +47,5 @@
 - How They Started: N/A
 - Opinions: Alabama does not sound like a place to work. I get huntsville being there but Id rather something closer. Really cool work (at least what she could tell me)
 - Goals/Follow Up: Know what you want in a job, lifestlye you want around a job, and then dont downplay your knowledge. 
+
+

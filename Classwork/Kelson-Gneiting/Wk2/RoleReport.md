@@ -44,7 +44,7 @@ All roles need to be fulfilled, and yes you will need to fulfill more than one r
 | Tech Lead (Database) | Haeji Na |
 | Quality Assurance | Josh Palmer | 
 | CM/DM | Josh Palmer | 
-| Responsible Engineer | N/A |
+| Responsible Engineer | Kelson Gneiting (Starting Wk 8) |
 | Responsible Engineer | N/A |
 
 ----
@@ -71,7 +71,7 @@ Retrospective summary only. This report documents role ownership and past planni
 
 As an unassigned supporting contributor,
 I want to summarize role-linked tasks completed by the team for the current version,
-so that responsibility, delivery history, and process continuity remain clear for future planning and handoff.
+so that responsibility, delivery history, and process continuity remain clear for future planning and to contribute to the team.
 <!-- Story Points/Value:
 In software Estimation, the major contributing factor is how complex the feature or sub-feature the story represents. A Story Point is not how long it will take, but the complexity of the tasks associated with the story, although, complexity does influence the time it takes. (Cause and effect).
     A story's points can be the sum of it sub-stories or on a scale complared to other stories.

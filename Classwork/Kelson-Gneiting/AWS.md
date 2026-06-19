@@ -23,15 +23,19 @@ Approximately 20 hours, when delivered synchronously by an educator
 
 - [x] Module 1: Cloud Concepts Overview -- Done
 - [x] Module 2: Cloud Economics and Billing -- Done
-- [ ] Module 3: AWS Global Infrastructure -- Done
-- [ ] Module 4: Cloud Security -- Done
-- [ ] Module 5: Networking and Content Delivery
-- [ ] Module 6: Compute
-- [ ] Module 7: Storage
-- [ ] Module 8: Databases
-- [ ] Module 9: Cloud Architecture
-- [ ] Module 10: Automatic Scaling and Monitoring
-- [ ] AWS Finishing Finals: Course Assessment and Badge
+- [x] Module 3: AWS Global Infrastructure -- Done
+- [x] Module 4: Cloud Security -- Done
+- [x] Module 5: Networking and Content Delivery --Done
+- [x] Module 6: Compute --Done
+- [x] Module 7: Storage --Done
+- [x] Module 8: Databases --Done
+- [x] Module 9: Cloud Architecture --Done
+- [x] Module 10: Automatic Scaling and Monitoring --Done
+- [x] AWS Finishing Finals: Course Assessment and Badge
+
+## AWS Academy Graduate Badge
+
+![AWS Academy Graduate Cloud Foundations Badge](./aws-academy-graduate-cloud-foundations-training-bad.png)
 
 ## Instructions
 * Complete all AWS Modules, upon finishinig the final and recieving the badge, create a pdf of the badge.

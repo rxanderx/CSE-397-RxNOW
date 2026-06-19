@@ -34,3 +34,9 @@ It is expected that each student will work for about an hour each week to get th
 * Informational interview #2 (#8 overall)
 * AWS Module 7
 * Received postgrad job offer
+
+## Jun 15-20
+* Finished AWS course
+* Set up an II or two
+* 3 Mock interviews (total of 9)
+* Made 3rd linkedin post

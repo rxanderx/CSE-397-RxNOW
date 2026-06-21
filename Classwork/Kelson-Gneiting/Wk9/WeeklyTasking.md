@@ -84,7 +84,7 @@ Since this is a 3 credit class, and you are spending about 9 hours a week workin
     - [ ] Role Planning Tasking (every even eek)[project/management/planning]
     <!-- Research Tasking
         Create a link to your teams copy of the <project/engineering/practices/research>, that you put a copy of in the artifacts/engineering/research directory      --> 
-   - [ ] [Research Tasking (05 pts) (every other week)](./Week09SWConcepts.md)
+   - [x] [Research Tasking (05 pts) (every other week)](./Whitepaper.md)
 
 * Daily Scrum Notes:
     * What did I do yesterday to help meet the Sprint Goal?

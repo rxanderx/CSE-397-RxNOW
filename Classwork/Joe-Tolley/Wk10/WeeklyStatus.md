@@ -12,8 +12,8 @@ Update the GitHub issue attributes
 * **Projects**: CSE397PCP
 * **Development (Branch)**: Tolley_Wk10
 
-## Training/Class Meeting [Minutes](../management/meetingminutes/Readme.md)(05 pts)
- - [ ] Training/Class Meeting - Training Notes (every week via zoom)
+## Training/Class Meeting Minutes(05 pts)
+ - [x] Training/Class Meeting - Training Notes -Attended (will add link when video becomes available)
 
 ## Individual Work (10 pts - 5 for [Gold](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk10/artifacts/staffing/Tolley/Tolley_CertificationReport.md), 5 for [Training](https://github.com/byui-cse397/2026.2SprCSE397PCP/edit/Tolley_Wk10/artifacts/staffing/Tolley/AWS/Summary.md)
  - [x] Professional Networking Certification: Career Services Gold Certificate (every week)

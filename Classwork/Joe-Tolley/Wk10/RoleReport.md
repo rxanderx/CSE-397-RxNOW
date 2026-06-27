@@ -54,7 +54,7 @@ The largest dependency was ensuring the entire team was aligned on the architect
 The following tasks were completed during this iteration:
 
 * [x] Merged the **`local_authorization`** branch into [**`main`**](https://github.com/louisramos23/RXNOW/tree/main)
-* [x] Verified localized authentication workflow and offline application functionality
+* [x] Verified localized authentication workflow and [offline application functionality](https://miro.com/app/board/uXjVHW1B9x4=/)
 * [x] Updated the [**Software Requirements Specification (SRS)**](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareRequirementsSpecification.md) to document the local-first architecture and provider entity redesign
 * [x] Rewrote the [**Software Design Document (SDD)**](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareDesignDocumentSDD.md) to reflect the current implementation using Flutter, Hive, and Flutter Secure Storage
 * [x] [Updated architecture diagrams](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/backEnd-visuals.md) to remove the previous backend-centric design

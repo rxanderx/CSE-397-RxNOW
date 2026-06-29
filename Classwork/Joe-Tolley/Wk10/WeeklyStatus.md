@@ -11,9 +11,7 @@ Update the GitHub issue attributes
 * **Milestone**: Week 11, Version 4.0 
 * **Projects**: CSE397PCP
 * **Development (Branch)**: Tolley_Wk10
-
-## Training/Class Meeting Minutes(05 pts)
- - [x] Training/Class Meeting - Training Notes -Attended (will add link when video becomes available)
+ - [x] Training/Class Meeting - [Training Notes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/June-23.md)
 
 ## Individual Work (10 pts - 5 for [Gold](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk10/artifacts/staffing/Tolley/Tolley_CertificationReport.md), 5 for [Training](https://github.com/byui-cse397/2026.2SprCSE397PCP/edit/Tolley_Wk10/artifacts/staffing/Tolley/AWS/Summary.md)
  - [x] Professional Networking Certification: Career Services Gold Certificate (every week)

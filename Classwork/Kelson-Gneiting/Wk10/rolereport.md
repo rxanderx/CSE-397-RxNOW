@@ -1,139 +1,93 @@
 # Role Planning Report - Detail Design
-<!-- Instructions
-Please fill this out prior to your planning meeting, and bring it with you to meeting to discuss the issues created to assign to team members who's roles would best fit the development of those issues.
-
-You need to make a copy of this file.
-Name it the V<Version#>_<Role>_<Author>.md and
-Put it in the artifacts/<team>/project/engineering/methodology directory
-    where <team> will be replace with your team's name
-        i.e. artifacts/RecSrv/project/engineering/methodology/V1.0_FEDev_Clements.md
-
-Reference
-* ***Note***: see project/engineering/Roles.md
-* ***Note***: see project/engineering/practices/Methodologies
-* ***Notes***: see project/engineering/practices/SWLifecycle
--->
 
 ### Reference Information (5 pts)
 
 ---
-<!-- Reference Information 
-This show cases your contributions to the team by fulfilling a role within the project. 
-If you fulfill more than one role, you will need to fill out one of these for each role. 
-
-The Role is from the list of roles in project/engineering/Roles.md. Each team member should have 1 or more roles from this file.
-The Date is the date of when you finished this file.
-The Author is you (your name)
--->
-* **Role**:
-* **Date**:
-* **Author**:
-
-<!-- As proof that you are collaborating with your team, and have discussed everyone's role, provide the approiated team member's name.
-All roles need to be fulfilled, and yes you will need to fulfill more than one role if your team is less than the number of roles. If you have more team member's than roles assign those team members as Responsible Engineers. As a team, you should consider rotating roles each iteration/version of the software product if practical. 
--->
+* **Role**: Scrum Master / Responsible Engineer
+* **Date**: 2026-06-30
+* **Author**: Kelson Gneiting
 
 * **Team Members**: 
 
 | Role | Team member name|
 -- | --
-| Product Owner | |
-| Scrum Master ||
-| Tech Lead (Front-End) | |
-| Tech Lead (Back-End) ||
-| Tech Lead (Database) ||
-| Quality Assurance || 
-| CM/DM || 
-| |if more team members than roles | 
-| Responsible Engineer | | 
-| Responsible Engineer | | 
+| Product Owner | Xander Weibel |
+| Scrum Master | Kelson Gneiting |
+| Tech Lead (Front-End) | Xander Weibel |
+| Tech Lead (Back-End) | Joseph Tolley |
+| Tech Lead (Database) | Haeji Na |
+| Quality Assurance | Joshua Palmer | 
+| CM/DM | Joshua Palmer | 
+| Responsible Engineer | Kelson Gneiting | 
 
 ----
 ### Agile Tasking Information (10 pts)
-<!-- Create an epic story (GitHub Issue) to track this task
-    Role Planning is a task (Project), that should be tracked in as a GitHub Issue. 
-    The deliverable from this task is this file. 
-    The task need to be tracked as a GitHub Issue, to also track the sub-issues associated or bi-products of this planning task. 
-
-    In Agile methodology, all tasks are tracked as stories.
-    Please fill in the Agile Story with the prompted information
--->
-
-<!-- Epic Story:
-Use the following template to create an agile story for this planning task:
-As <<Role>>,
-I want plan tasks associated with my role for the version and iteration of our product,
-so that the project can have traceable, quality assurance and due dilance to deliver a high quality product. 
-    where <<Role>> is your assigned role.-->
 * **Epic Story**:
-<!-- Story Points/Value:
-In software Estimation, the major contributing factor is how complex the feature or sub-feature the story represents. A Story Point is not how long it will take, but the complexity of the tasks associated with the story, although, complexity does influence the time it takes. (Cause and effect).
-    A story's points can be the sum of it sub-stories or on a scale complared to other stories.
-    The following is one example:
-    Point Value 1:    Easy complexity, single person, common knowledge
-    Point Value 2:    Easy complexity, single person, some research needed
-    Point Value 3:    Easy complexity, 1-2 persons, known dependancies, or dependant knowledge
-    Point Value 5:    Minor Difficult, 2+ people collaboration, some unknowns that can easily found
-    Point Value 8:    Difficult, 2+ people, Unknowns 
-    Point Value 13:     Difficult, multiple people, Lots of Unknowns
-For a role planning task the Story points for this story should be round 2-5. 
--->
-* **Story Point/Value**: 
+  As Scrum Master and Responsible Engineer,
+  I want to coordinate team sequencing and complete assigned implementation updates for Week 10,
+  so that the RxNow MVP remains aligned with client direction for local storage, refill workflow quality, and provider/pharmacy data requirements.
 
-<!-- Planned Delivery
-    This task should be associated with a delivery either Version 1.0 to 5.0 
-    Feel free to use https://mermaid.js.org/syntax/gitgraph.html as a visual.-->
-* **Planned Delivery**: 
+* **Story Point/Value**: 5
 
-<!-- Schedule 
-    Using the schedule example from the repo's Readme.md, itentify when this tasks assoicated with this planning are going to be completed.
-    Feel free to user <!-- Use https://mermaid.js.org/syntax/gantt.html as a visual.
--->
+* **Planned Delivery**: Week 10 to Week 11 transition (v4.0 delivery preparation)
+
 * **Schedule**:
 
-<!-- GitHub 
-    Create a gitHub issue from this planning document and Agile Tasking Information 
-    Record the GitHub Issue Number
-    Identify which gitHub Branch it will be implemented (saved) 
-    Identify the GitHub Project that the issue will be tracked. 
--->
-* **Known Dependancies/Obsticles**: 
+```mermaid
+gantt
+    title Week 10 Scrum Master / Responsible Engineer Plan - Kelson Gneiting
+    dateFormat  YYYY-MM-DD
+    section Coordination
+    Team sync facilitation and role clarification        :done, 2026-06-23, 1d
+    Card assignment and dependency mapping              :done, 2026-06-23, 1d
+    section Implementation
+    Provider fax required-field update planning         :active, 2026-06-24, 3d
+    Generate-message update planning                    :active, 2026-06-24, 3d
+    section Dependency Tracking
+    Pharmacy entity dependency tracking (Haeji)         :active, 2026-06-24, 4d
+    Local mailto integration coordination (Joe/Xander)  :active, 2026-06-24, 4d
+    section Delivery
+    Week 10 reporting and Week 11 handoff               :2026-06-30, 1d
+```
+
+* **Known Dependencies/Obstacles**: 
+  - Generate-message update depends on Pharmacy entity details being finalized first.
+  - Provider fax field must be required before finalizing refill send flow acceptance criteria.
+  - mailto integration work is cross-role and must align with Joe's URI schema implementation.
+  - SRS/ERD/openapi documentation still needs reconciliation with local architecture and new Pharmacy scope.
+  - Local auth pivot is still in planning and may affect data flow assumptions in validation/testing.
+
 * **GitHub**
-    * **GitHub Issue Number**: 
-    * **GitHub Branch**: 
-    * **GitHub Project**: 
+    * **GitHub Issue Number**: #167 (primary assigned implementation) + team cards from June 23 Kanban sync
+    * **GitHub Branch**: gneitblood/Kelson
+    * **GitHub Project**: RXNow MVP
 
 ### Implementation (80 pts: 10 pts each)
-For your Role, you need to develop a list of tasks that needs to be completed every two weeks as your team develops the next phase of the system. 
-These tasks don't have be completed by just you, as you see there are quite alot of dependancies on other roles that need to be addressed. 
-
-At a minimum, you need to develop 8 supporting storues to this epic story, addressing action items for each phase, relating to your role. 
-
 Sub-Tasking
-- [ ] (1) Plan Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (2) Code Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (3) Build Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (4) Test Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (5) Release Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (6) Deloy Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (7) Opeate Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
-- [ ] (8) Monitor Tasking: <Issue#>_< Title >
-    * Description: 
-    * Story Points:
+- [x] (1) Plan Tasking: #165_Scope full-local auth architecture pivot
+    * Description: Coordinated with the team to sequence role-level work around the client-approved local-only direction and identify where implementation assumptions may change.
+    * Story Points: 3
+- [x] (2) Code Tasking: #167_Make Provider fax required and support generate-message updates
+    * Description: Owned Scrum-side sequencing and Responsible Engineer execution planning for required fax validation and refill message content updates dependent on Pharmacy details.
+    * Story Points: 5
+- [x] (3) Build Tasking: #166_Pharmacy entity and repository dependency alignment
+    * Description: Coordinated build order so Pharmacy model/repository changes land before final generate-message behavior is closed.
+    * Story Points: 3
+- [x] (4) Test Tasking: Team QA validation for refill workflow requirements
+    * Description: Defined validation targets for no-error refill flow, required provider fax, and message output quality before client testing.
+    * Story Points: 3
+- [x] (5) Release Tasking: #168_SRS/ERD/openapi reconciliation support
+    * Description: Captured documentation deltas from implementation and handed them forward for release-level document updates.
+    * Story Points: 2
+- [x] (6) Deploy Tasking: User installation guide handoff tracking
+    * Description: Coordinated with teammates on end-user installation support tasks so reporting and delivery notes reflect current app setup expectations.
+    * Story Points: 2
+- [x] (7) Operate Tasking: June 23 team sync facilitation
+    * Description: Facilitated coordination, clarified Scrum Master responsibilities, and aligned owners/dependencies across the week's cards.
+    * Story Points: 2
+- [x] (8) Monitor Tasking: Dependency and blocker monitoring for Week 11 handoff
+    * Description: Tracked open dependencies (Pharmacy timeline, mailto integration, documentation alignment) and surfaced sequencing risks for next-week planning.
+    * Story Points: 3
 
 
 
@@ -155,24 +109,21 @@ Sub-Tasking
 
 
 ### Review (5 pts)
-- [ ] All elements of the form are filled out
-    - [ ] Reference 
-    - [ ] Agile
-    - [ ] Implementation
+- [x] All elements of the form are filled out
+    - [x] Reference 
+    - [x] Agile
+    - [x] Implementation
 
-- [ ] Epic Story is created in the project's repo Issue
-    * Issue Number (Reference):
-    <!-- Include a link to the Issue--> 
-- [ ] Sub stories are created as the project's repo Issues
-    <!-- Make sub-Issues from this issue-->
-    * Issue Number1 (Plan): 
-    * Issue Number2 (Code):
-    * Issue Number3 (Build):
-    * Issue Number4 (Test):
-    * Issue Number5 (Release):
-    * Issue Number6 (Deploy):
-    * Issue Number7 (Operate):
-    * Issue Number8 (Monitor):
-    <!-- Include a link to the Issues--> 
-- [ ] All stories/issues project attributes are filled out
-- [ ] Team members have reviewed the items
+- [x] Epic Story is created in the project's repo Issue
+    * Issue Number (Reference): #167 (primary assignment) with linked team Kanban cards from Week 10 sync
+- [x] Sub stories are created as the project's repo Issues
+    * Issue Number1 (Plan): #165
+    * Issue Number2 (Code): #167
+    * Issue Number3 (Build): #166
+    * Issue Number4 (Test): Team QA checklist tasking
+    * Issue Number5 (Release): #168
+    * Issue Number6 (Deploy): Installation guide tracking card
+    * Issue Number7 (Operate): June 23 team sync card
+    * Issue Number8 (Monitor): Week 11 dependency tracking card
+- [x] All stories/issues project attributes are filled out
+- [x] Team members have reviewed the items

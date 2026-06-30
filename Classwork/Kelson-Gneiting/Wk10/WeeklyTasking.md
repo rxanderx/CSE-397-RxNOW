@@ -1,125 +1,77 @@
-# Weekly 0x Tasking
-<!--Use this template to create your weekly gitHub Project file.
-. You will submit this every week.
-Points: 100 pts
-Instructions: 
-* Copy this to a new gitHub File and put it in your artifacts//dossier directory.
-* Fill in the Issue's attributes
-* Submit a Link of the GitHub issue to the Canvas course's weekly status.
--->
-
-<!-- 5 pts: Create of gitHub Issues-->
+# Weekly 10 Tasking
 **Story**: As a CSE 397 Student, I want to complete the following tasks this week, so that I can return and report on my success as a valuable member of the team. 
 
 See [Weekly Tasking](../management/scheduling/Readme.md) for each weeks tasking.
 
 ## Agile Issue (05 pts)
 Update the GitHub issue attributes
-* **Author**:
-* **Labels**:
-* **Type**:
-* **Milestone**:
-* **Projects**:
-* **Development (Branch)**: 
-<!-- See project/enggering/processes/VersionControl.md,
-This should also match tasking information your made at the beginning of the semseter.
-/project/engineering/processes/StudentSetup.md
---->
+* **Author**: Kelson Gneiting
+* **Labels**: week-10, scrum-master, responsible-engineer, planning, rxnow-mvp
+* **Type**: Weekly Tasking / Agile Status
+* **Milestone**: Week 10 -> Week 11 transition (v4.0 preparation)
+* **Projects**: RXNow MVP
+* **Development (Branch)**: gneitblood/Kelson
 
 
 
-<!-- 5 pts: Link to Personal Summary of Learning in artifacts
-Instructions: Please link your meeting notes to this checklist
--->
 ## Training/Class Meeting [Minutes](../management/meetingminutes/Readme.md)(05 pts)
- - [ ] Training/Class Meeting - Training Notes (every week via zoom)
+ - [x] Training/Class Meeting - Training Notes (every week via zoom): [June-23 Class Meeting Notes](../classmeetingnotes/June-23.md)
 
 
-<!-- 20 pts: Links to Career Readiness activites 
-Instructions: Please link your summaries to each of these activities for verification of completion. 
-Then check the box as complete. 
--->
 ## Individual Work (10 pts - 5 for [Gold](../training/CC_CareerReadiness.md), 5 for [Training](../training/))
- - [ ] Professional Networking Certification: Career Services Gold Certificate (every week)
- - [ ] Professional Training
+ - [x] Professional Networking Certification: Career Services Gold Certificate (every week): [Gold Certification Report](../Gold/Gneiting_CertificationReport.md)
+ - [x] Professional Training: [AWS Progress](../AWS.md)
     - The 2-Hour Job Search (Week 01-03)
     - Job Search (Week 04-05)
     - AWS Modules: Cloud Fundamentals (Week 06-11)
     - Ethics (Week 12-14)
 
 
-<!----------------------------
-Instructions: 
-------------------------------->
 ## Project Teamwork Meeting [Minutes](../management/meetingminutes/Readme.md)(10 pts)
-<!-- 10 pts: Link to meeting minutes from team meeting-->
- - [ ] Weekly Meeting with team (every week - arranged by your team)
+ - [x] Weekly Meeting with team (every week - arranged by your team): [June 23 Team Meeting Notes](../../../Teamwork/Team-Notes/June%2023.md)
 
-<!----------------------------
-------------------------------->
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:
 * What did I do yesterday to help meet the Sprint Goal?
+
+I ran the scrum meeting and learned from the team and got an update on what direction RxNow is going. Added some features to allow for better integration
+
 * What will I do today to help meet the Sprint Goal?
+
+Test features and get edge cases out of the pay. prepare for deployment
+
 * Do I see any impediment that prevents me or the team from meeting the Sprint Goal.
+
+No.
 
 Since this is a 3 credit class, and you are spending about 9 hours a week working on this class, it is equivalent to a normal business day. Your weekly status will be your Agile Daily Scrum report.
 
 ### What did you do yesterday to help meet the Sprint Goal?
-<!-- 10 pts: Link to feature planning tasking-->
 * ([Feature](../management/planning/featurePlanningReport.md) or [Role](../management/planning/rolePlanningReport.md)) and [Research](../engineering/practices/Research/Readme.md) Planning Tasking (10 pts)
-    <!-- Feature Planning
-        Create a link to your copy of the <project/management/planning/featureReport.md>, that you put in the artifacts/<team>/project/engineering/detaileddesign directory -->
     - [ ] Feature Planning Tasking (every odd week)[project/management/planning]
-    <!-- Role Planning
-        Create a link to your copy of the <project/management/planning/rolePlanningReport.md>, that you put in the artifacts/<team>/project/engineering/methodology/ directory -->
-    - [ ] Role Planning Tasking (every even eek)[project/management/planning]
-    <!-- Research Tasking
-        Create a link to your teams copy of the <project/engineering/practices/research>, that you put a copy of in the artifacts/engineering/research directory      --> 
-   - [ ] Research Tasking (05 pts) (every other week)[/project/engineering/practices/research] 
+    - [x] Role Planning Tasking (every even week)[project/management/planning]: [Week 10 Role Report](./rolereport.md)
+    - [x] Research Tasking (05 pts) (every other week)[/project/engineering/practices/research]: Reviewed Scrum Master process references and team architecture notes for dependency planning
 
 
-
-
-<!----------------------------
-------------------------------->
- - [ ] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
+ - [x] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
 - Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
-<!-- List all the issues that you completed this week and what you plan on working next week.
-
-Replace each of the Feature and Research Stories with the actual stories assigned to you. -->
-
-<!-- 50 pts: Links to Product tasking issues -->
 * [Scheduled](../management/scheduling/Readme.md) Tasking completed This week (50 pts - 10 pts per completed task)
-    <!-- Completed Feture Stories
-    During your team meeting you share your stories that you created doing the Feature Planning
-    Copy the stories/issue information that were assigned to you through your team meeting.
-    Replace each item below with the following information and format, seperated by :
-                        Format
-        * Issue Number  Normal
-        * Issue name    **Bold**
-        * Issue author  *Italics* 
-        i.e. #1: **Master Issue**: *Clements*
-    Expectations that you complete at least 5 tasks, list more if applicable.
-    See /project/management/scheduling/Readme.md
-    --> 
     - [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Stories
-        - [ ] x.1.
-        - [ ] x.2. 
-        - [ ] x.3. 
-        - [ ] x.4. 
-        - [ ] x.5.
+        - [x] 10.1. Facilitated June 23 team sync and clarified Scrum Master responsibilities for weekly task coordination
+        - [x] 10.2. Coordinated dependency sequencing for Pharmacy entity -> Generate Message update path
+        - [x] 10.3. Scoped and tracked Provider fax required-field implementation task (assigned to Kelson)
+        - [x] 10.4. Planned Generate Message functionality update tied to pharmacy/provider requirement changes
+        - [x] 10.5. Captured and communicated next-step blockers/owners for mailto integration and documentation alignment
 
     Where x is the week tasking.
 
-<!-- 5 pts: Links to Product tasking issues -->
 * [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Planned Next Week stories (5 pts - list of 5+)
     - Future [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md)
-        - [ ] x.1.
-        - [ ] x.2. 
-        - [ ] x.3. 
-        - [ ] x.4. 
-        - [ ] x.5.
+        - [ ] 11.1. Implement and validate Provider fax required-field behavior across create/edit flows
+        - [ ] 11.2. Complete Generate Message update once Pharmacy entity fields/timeline are finalized
+        - [ ] 11.3. Pair on mailto refill-send integration and confirm generated output quality
+        - [ ] 11.4. Support SRS/ERD/openapi reconciliation for Provider + Pharmacy documentation updates
+        - [ ] 11.5. Run Scrum follow-up check-in and update issue ownership/status for Week 11 completion
 
         Where x is the week tasking.
 

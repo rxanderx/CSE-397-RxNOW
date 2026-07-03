@@ -26,11 +26,11 @@ Update the GitHub issue attributes
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:
 * What did I do yesterday to help meet the Sprint Goal?
- - I helped mesh together the recent updates and have a running program again. Gave step-by-step instructions for getting the app running as well as creating an APK for distribution to new systems. Did this to avoid a merge-ageddon that I had been expecting by getting us all on the same page and same working build. 
+  - I helped mesh together the recent updates and have a running program again. Gave step-by-step instructions for getting the app running as well as creating an APK for distribution to new systems. Did this to avoid a merge-ageddon that I had been expecting by getting us all on the same page and same working build. 
 * What will I do today to help meet the Sprint Goal?
- - I will help polish up and debug the current build, mesh together the updated features and make sure it runs. Update the test-plan and implement the tests to make sure it is acting as expected. Do a rebuild of the APK with the updated files. Give recommendation for next steps with client as far as scalability and distribution.
+  - I will help polish up and debug the current build, mesh together the updated features and make sure it runs. Update the test-plan and implement the tests to make sure it is acting as expected. Do a rebuild of the APK with the updated files. Give recommendation for next steps with client as far as scalability and distribution.
 * Do I see any impediment that prevents me or the team from meeting the Sprint Goal.
- - Differences between updates are difficult. Manual merging has been neccessary and great care goes in to not ruining something else when one thing is added. We are torn between polishing up what we have or implementing more features that the client wants.
+  - Differences between updates are difficult. Manual merging has been neccessary and great care goes in to not ruining something else when one thing is added. We are torn between polishing up what we have or implementing more features that the client wants.
 ### What did you do yesterday to help meet the Sprint Goal?
 * Back-End Lead (current week)
  - [x] [Feature Planning Tasking](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk11/artifacts/staffing/Tolley/Wk11/FeatureReport05.md)

@@ -20,4 +20,19 @@ It is expected that each student will work for about an hour each week to get th
 * 5 New connections on linkedin
 * One informational interview conducted (still need 4 more for total of 11)
 * Scheduled Career Center photo take for new professional photo
+* # May 30 - June 6
+* New Career Photo
+* One informational interview conducted (still need 3 more for total of 11)
+# June 6 - June 13
+* Added 6 LinkedIn contacts in my field
+* Sent my max of 5 messages over LinkedIn to get to know / contact alumni
+# June 13 - June 20
+* Busy week for my other classes, no work on career gold
+# June 20 - June 27
+* Added 5 connections on LinkedIn
+* One informational interview conducted (still need 2 more for total of 11)
+# June 27 - July 4
+* Almost done updating LinkedIn Projects section to reflect senior project + Project for this class
+* added 3 connections on LinkedIn
+* Networked with 3 classmates to find informational interviews in our collegiate pool ~ one coming up
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

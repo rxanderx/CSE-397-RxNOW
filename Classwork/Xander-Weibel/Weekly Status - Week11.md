@@ -1,7 +1,7 @@
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.
 * [This week's Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/June-16.md)
-* [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/June-16.md)
+* [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/June%2030.md)
 * [Link to Career Gold Living Document](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Career-Cert.md)
 * AWS FINAL completed [Link to dossier with the pdf attached](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Weibel_Wk14/project/management/staffing/XanderWeibel%20Dossier.md)
 

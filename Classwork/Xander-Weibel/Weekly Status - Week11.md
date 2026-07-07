@@ -1,14 +1,14 @@
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.
-* [This week's Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/June-16.md)
-* [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/June-16.md)
+* [This week's Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/June-30.md)
+* [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/June%2030.md)
 * [Link to Career Gold Living Document](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Career-Cert.md)
-* AWS FINAL completed 
+* AWS FINAL completed [Link to dossier with the pdf attached](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Weibel_Wk14/project/management/staffing/XanderWeibel%20Dossier.md)
 
 ## Section 2
 Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Week's Planning is attached here.
 * [Our VDD 4.0 (which has the user manual linked within)](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/3.0%20VDD.md)
-* [Link to Week 11 Feature Planning Report](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Feature_Planning_Reports/Feature_Planning_Report_Wk09.md)
+* [Link to Week 11 Feature Planning Report](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Feature_Planning_Reports/Feature_Planning_Report_Wk11.md)
 * [Link to our Kanban board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 
 # Completed Items from my weekly tasking

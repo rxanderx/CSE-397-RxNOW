@@ -1,4 +1,4 @@
-# Weekly Status - Week07
+# Josh Palmer Weekly Status - Week07
 
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.
@@ -13,8 +13,8 @@ Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Wee
 
 ## Section 3 - Project Tasks
 
-* Defined separation between developer & QA responsibilities
-* Devised specific list of items and functions to test
-* Split list based on person & responsibility
-* Finalized test plan document
-* Begun work on Installation Guide
+* Defined separation between developer & QA responsibilities - Josh Palmer
+* Devised specific list of items and functions to test - Josh Palmer
+* Split list based on person & responsibility - Josh Palmer
+* Finalized test plan document - Josh Palmer
+* Begun work on Installation Guide - Josh Palmer

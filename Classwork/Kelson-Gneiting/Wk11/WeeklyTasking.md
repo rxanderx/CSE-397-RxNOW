@@ -1,127 +1,72 @@
-# Weekly 0x Tasking
-<!--Use this template to create your weekly gitHub Project file.
-. You will submit this every week.
-Points: 100 pts
-Instructions: 
-* Copy this to a new gitHub File and put it in your artifacts//dossier directory.
-* Fill in the Issue's attributes
-* Submit a Link of the GitHub issue to the Canvas course's weekly status.
--->
+# Weekly 11 Tasking
 
-<!-- 5 pts: Create of gitHub Issues-->
-**Story**: As a CSE 397 Student, I want to complete the following tasks this week, so that I can return and report on my success as a valuable member of the team. 
-
-See [Weekly Tasking](../management/scheduling/Readme.md) for each weeks tasking.
+**Story**: As a CSE 397 Student, I want to complete the following tasks this week, so that I can return and report on my success as a valuable member of the team.
 
 ## Agile Issue (05 pts)
-Update the GitHub issue attributes
-* **Author**:
-* **Labels**:
-* **Type**:
-* **Milestone**:
-* **Projects**:
-* **Development (Branch)**: 
-<!-- See project/enggering/processes/VersionControl.md,
-This should also match tasking information your made at the beginning of the semseter.
-/project/engineering/processes/StudentSetup.md
---->
+* **Author**: Kelson Gneiting
+* **Labels**: week-11, scrum-master, responsible-engineer, feature-planning, rxnow-mvp
+* **Type**: Weekly Tasking / Agile Status
+* **Milestone**: Week 11 — v3.1 Provider Finalization & Pharmacy Entity
+* **Projects**: RXNow MVP
+* **Development (Branch)**: gneitblood/Kelson
 
 
-
-<!-- 5 pts: Link to Personal Summary of Learning in artifacts
-Instructions: Please link your meeting notes to this checklist
--->
-## Training/Class Meeting [Minutes](../management/meetingminutes/Readme.md)(05 pts)
- - [ ] Training/Class Meeting - Training Notes (every week via zoom)
+## Training/Class Meeting [Minutes](../management/meetingminutes/Readme.md) (05 pts)
+ - [x] Training/Class Meeting - Training Notes (every week via zoom): [June 30 Class Meeting Notes](../../../Classwork/Class-Notes/June-30.md)
 
 
-<!-- 20 pts: Links to Career Readiness activites 
-Instructions: Please link your summaries to each of these activities for verification of completion. 
-Then check the box as complete. 
--->
-## Individual Work (10 pts - 5 for [Gold](../training/CC_CareerReadiness.md), 5 for [Training](../training/))
- - [ ] Professional Networking Certification: Career Services Gold Certificate (every week)
- - [ ] Professional Training
-    - The 2-Hour Job Search (Week 01-03)
-    - Job Search (Week 04-05)
-    - AWS Modules: Cloud Fundamentals (Week 06-11)
-    - Ethics (Week 12-14)
+## Individual Work (10 pts - 5 for [Gold](../Gold/Gneiting_CertificationReport.md), 5 for [Training](../AWS.md))
+ - [x] Professional Networking Certification: Career Services Gold Certificate (every week): [Gold Certification Report](../Gold/Gneiting_CertificationReport.md)
+ - [x] Professional Training: [AWS Final — Completed](../AWS.md)
+    - AWS Modules: Cloud Fundamentals (Week 06-11) — **Final module completed this week**
 
 
-<!----------------------------
-Instructions: 
-------------------------------->
-## Project Teamwork Meeting [Minutes](../management/meetingminutes/Readme.md)(10 pts)
-<!-- 10 pts: Link to meeting minutes from team meeting-->
- - [ ] Weekly Meeting with team (every week - arranged by your team)
+## Project Teamwork Meeting [Minutes](../management/meetingminutes/Readme.md) (10 pts)
+ - [x] Weekly Meeting with team (every week - arranged by your team): [June 30 Team Meeting Notes](../../../Teamwork/Team-Notes/June%2030.md)
 
-<!----------------------------
-------------------------------->
 ## Project Individual Work (10 pts)
-In Agile Daily Scrum meetings each individual are asked three questions:
-* What did I do yesterday to help meet the Sprint Goal?
-* What will I do today to help meet the Sprint Goal?
-* Do I see any impediment that prevents me or the team from meeting the Sprint Goal.
 
-Since this is a 3 credit class, and you are spending about 9 hours a week working on this class, it is equivalent to a normal business day. Your weekly status will be your Agile Daily Scrum report.
+* What did I do yesterday to help meet the Sprint Goal?
+
+  Facilitated the June 30 team sync, coordinated Scrum task assignments for Week 11, and began drafting the Software User Manual covering the updated Provider and new Pharmacy user flows.
+
+* What will I do today to help meet the Sprint Goal?
+
+  Continue writing and refining the Software User Manual to document the Pharmacy add/edit screens and the updated medication form with pharmacy selection. Support QA handoff once User Manual is complete.
+
+* Do I see any impediment that prevents me or the team from meeting the Sprint Goal?
+
+  The `mailto:` integration is still in progress (Xander), which means the refill-send section of the User Manual cannot be finalized until Week 12. Everything else is unblocked.
 
 ### What did you do yesterday to help meet the Sprint Goal?
-<!-- 10 pts: Link to feature planning tasking-->
-* ([Feature](../management/planning/featurePlanningReport.md) or [Role](../management/planning/rolePlanningReport.md)) and [Research](../engineering/practices/Research/Readme.md) Planning Tasking (10 pts)
-    <!-- Feature Planning
-        Create a link to your copy of the <project/management/planning/featureReport.md>, that you put in the artifacts/<team>/project/engineering/detaileddesign directory -->
-    - [ ] Feature Planning Tasking (every odd week)[project/management/planning]
-    <!-- Role Planning
-        Create a link to your copy of the <project/management/planning/rolePlanningReport.md>, that you put in the artifacts/<team>/project/engineering/methodology/ directory -->
-    - [ ] Role Planning Tasking (every even eek)[project/management/planning]
-    <!-- Research Tasking
-        Create a link to your teams copy of the <project/engineering/practices/research>, that you put a copy of in the artifacts/engineering/research directory      --> 
-   - [ ] Research Tasking (05 pts) (every other week)[/project/engineering/practices/research] 
+* Feature Planning Tasking (odd week) and Research Tasking:
+    - [x] Feature Planning Tasking: [Week 11 Feature Report](./FeatureReport.md)
+    - [ ] Role Planning Tasking (even week) — N/A this week
+    - [x] Research Tasking: [Networking Research Notes](./Week11Networking.md)
+    - [x] White Paper (in progress): [White Paper — Hosting: AWS, GitHub, Heroku, Google, Other](./WhitePaper.md)
 
 
+ - [x] Issue Tasking (every week)
 
+* Tasking completed This week (50 pts - 10 pts per completed task)
+    - Feature / Scrum Master Stories
+        - [x] 11.1. Facilitated June 30 team sync; coordinated and confirmed task ownership across all five team members for Week 11 sprint
+        - [x] 11.2. Drafted Software User Manual — Provider flow (updated field set with required fax, trimmed to Louis's spec)
+        - [x] 11.3. Drafted Software User Manual — Pharmacy flow (add/edit/list screens, new entity)
+        - [x] 11.4. Drafted Software User Manual — Medication form update (Pharmacy dropdown selection)
+        - [x] 11.5. Completed Week 11 Feature Planning Report (Feature 04) as Scrum Master artifact
+        - [x] 11.6. Tracked and documented open items / blockers for the team (mailto: carry, SDD doc pass, Pharmacy scoping)
+        - [x] 11.7. Confirmed AWS Cloud Fundamentals final module completion
+        - [x] 11.8. Coordinated VDD 4.0 progress check with Josh Palmer
 
-<!----------------------------
-------------------------------->
- - [ ] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
-- Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
-<!-- List all the issues that you completed this week and what you plan on working next week.
-
-Replace each of the Feature and Research Stories with the actual stories assigned to you. -->
-
-<!-- 50 pts: Links to Product tasking issues -->
-* [Scheduled](../management/scheduling/Readme.md) Tasking completed This week (50 pts - 10 pts per completed task)
-    <!-- Completed Feture Stories
-    During your team meeting you share your stories that you created doing the Feature Planning
-    Copy the stories/issue information that were assigned to you through your team meeting.
-    Replace each item below with the following information and format, seperated by :
-                        Format
-        * Issue Number  Normal
-        * Issue name    **Bold**
-        * Issue author  *Italics* 
-        i.e. #1: **Master Issue**: *Clements*
-    Expectations that you complete at least 5 tasks, list more if applicable.
-    See /project/management/scheduling/Readme.md
-    --> 
-    - [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Stories
-        - [ ] x.1.
-        - [ ] x.2. 
-        - [ ] x.3. 
-        - [ ] x.4. 
-        - [ ] x.5.
-
-    Where x is the week tasking.
-
-<!-- 5 pts: Links to Product tasking issues -->
-* [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Planned Next Week stories (5 pts - list of 5+)
-    - Future [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md)
-        - [ ] x.1.
-        - [ ] x.2. 
-        - [ ] x.3. 
-        - [ ] x.4. 
-        - [ ] x.5.
-
-        Where x is the week tasking.
+* Planned Next Week stories (5 pts - list of 5+)
+    - Future Feature / Scrum Master Stories
+        - [ ] 12.1. Finalize User Manual — add refill-send section once mailto: integration is complete (Xander carry-over)
+        - [ ] 12.2. Run Week 12 Scrum sync; update issue ownership and sprint status for final stretch
+        - [ ] 12.3. Complete White Paper (Hosting: AWS, GitHub, Heroku, Google, Other)
+        - [ ] 12.4. Support QA verification pass — validate Provider fax-required behavior and Pharmacy CRUD
+        - [ ] 12.5. Begin ethics quiz and ethics reflection paper (Week 12–14 individual requirement)
+        - [ ] 12.6. Contribute to final presentation slide deck and coordinate speaking roles with team
 
 
 ### Rubric

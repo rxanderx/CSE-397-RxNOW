@@ -67,11 +67,11 @@ Gold Students Progress Reports
 * Interview 11: Ben Thengvall
 
 ### LinkedIn Activity
-* Post 1:
-* Post 2:
-* Post 3:
-* Recommendation 1:
-* Recommendation 2:
+* Post 1: AWS Cert
+* Post 2: Graduation Announcement
+* Post 3: Wedding Announcement
+* Recommendation 1: Alexander Lindberg
+* Recommendation 2: Jayce Roquemore
 
 ### Mentor Relationship
 * Name: Sean Carpenter

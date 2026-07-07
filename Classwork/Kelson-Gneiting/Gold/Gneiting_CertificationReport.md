@@ -44,11 +44,11 @@ Gold Students Progress Reports
 * **Career Center appointment:**
 * **Silver certification:**
 * **Basic certification:**
-* **Informational interviews completed:** 
+* **Informational interviews completed:** 11
 * **LinkedIn connections:** [Kelson Gneiting LinkedIn](https://www.linkedin.com/in/kelson-gneiting-2275892a0/)
-* **LinkedIn posts completed:**
-* **LinkedIn recommendations received:**
-* **Mentor relationship:**
+* **LinkedIn posts completed:** 3
+* **LinkedIn recommendations received:** 3
+* **Mentor relationship:** Done
 * **Gold certification completed:**
 
 ## Evidence and Notes
@@ -59,12 +59,12 @@ Gold Students Progress Reports
 * Interview 3: Brayden Sanders
 * Interview 4: Sean Carpenter
 * Interview 5: Sandy Veautour
-* Interview 6:
-* Interview 7:
-* Interview 8:
-* Interview 9:
-* Interview 10:
-* Interview 11:
+* Interview 6: Randy Shirts
+* Interview 7: Carter Hoffman
+* Interview 8: Brian Adkins
+* Interview 9: Doug Parsons
+* Interview 10: Ken Stephens
+* Interview 11: Ben Thengvall
 
 ### LinkedIn Activity
 * Post 1:

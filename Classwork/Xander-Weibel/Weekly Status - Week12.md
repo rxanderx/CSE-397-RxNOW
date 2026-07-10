@@ -1,6 +1,6 @@
 ## Section 1
 Our equivalent of Agile info / Meeting notes / Individual Work / Team Planning meeting is attached here.
-* [This week's Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/June-30.md)
+* [This week's Class Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Class-Notes/July-7.md)
 * [Link to Team Meeting Minutes](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/June%2030.md)
 * [Link to Career Gold Living Document - Almost done!](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Classwork/Xander-Weibel/Career-Cert.md)
 

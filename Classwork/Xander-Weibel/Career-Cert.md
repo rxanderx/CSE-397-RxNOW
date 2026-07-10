@@ -32,7 +32,11 @@ It is expected that each student will work for about an hour each week to get th
 * Added 5 connections on LinkedIn
 * One informational interview conducted (still need 2 more for total of 11)
 # June 27 - July 4
-* Almost done updating LinkedIn Projects section to reflect senior project + Project for this class
+* Started updating LinkedIn Projects section to reflect senior project + Project for this class
 * added 3 connections on LinkedIn
 * Networked with 3 classmates to find informational interviews in our collegiate pool ~ one coming up
+# July 4 - July 11
+* Updated LinkedIn to display my AWS badge
+* added 6 connections on LinkedIn
+* Had informational interview (still need 1 more for a total of 11)
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

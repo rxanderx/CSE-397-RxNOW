@@ -10,7 +10,6 @@
 * **Photo**  
   ![Profile Photo](./Professional%20Photo.jpg)
 
-* **[30-second elevator pitch](./Gold/elevator.md)**  
 * **[Resume](./Resume%20Infinity.pdf)**  
 * **[LinkedIn Profile](www.linkedin.com/in/kelson-gneiting-2275892a0)**  
 * **[BYUi Connect](https://ces.peoplegrove.com/profile/kelsongneiting/)**  

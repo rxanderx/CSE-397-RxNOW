@@ -18,10 +18,10 @@ Online students who complete the Gold Certification will receive:
 
 **Gold Certification Requirements**
 You will need to provide evidence that you have completed these tasks by contributing to the following linked content.
-* [Meet with Career Success Mentor](/* put link here */)
-  * Set up a meeting with Career Services to review your Gold Certification requirements before the end of the semester.
-* [Complete the Silver Certification](/* put link here */)
-  * If needed, complete Level 2 Silver and Level 1 Basic.
+* [Meet with Career Success Mentor](https://byui.joinhandshake.com/stu/appointments/new)
+  * Appointment requested and scheduled through Handshake.
+* [Complete the Silver Certification](https://byui.badges.parchment.com/public/assertions/q2nDOcMrQvWKWv5TWswmvg?identity__email=gne21002@byui.edu)
+  * Silver certification completed.
 * [Complete 5 informational interviews](./Gold/Gneiting_infoInterviews.md)
   * You will need a total of 11 informational interviews across the certification levels.
 * [Reach 100 LinkedIn connections](https://www.linkedin.com/in/kelson-gneiting-2275892a0/)
@@ -31,7 +31,7 @@ You will need to provide evidence that you have completed these tasks by contrib
   * Only one can be from an instructor.
 * [Develop a mentor relationship with a professional in your field](https://www.linkedin.com/in/seancarpenter639/)
 
-**[Completed Gold Certification](/* put link here */)**
+**[Completed Gold Certification](https://badges.parchment.com/public/assertions/2x6Bc9IZTKaDHPcq_fZYOQ?utm_source=url_copy&identity__email=gne21002@byui.edu)**
 * When finished, upload your professional certifications PDF to GitHub and to the class assignment if required.
 
 ## Deliverable:
@@ -41,15 +41,17 @@ Gold Students Progress Reports
 * Update it weekly as you make progress.
 
 ## Status Summary
-* **Career Center appointment:**
-* **Silver certification:**
-* **Basic certification:**
+* **Career Center appointment:** [New Appointment | Handshake](https://byui.joinhandshake.com/stu/appointments/new)
+* **Silver certification:** Completed
+* **Basic certification:** Completed
 * **Informational interviews completed:** 11
 * **LinkedIn connections:** [Kelson Gneiting LinkedIn](https://www.linkedin.com/in/kelson-gneiting-2275892a0/)
 * **LinkedIn posts completed:** 3
 * **LinkedIn recommendations received:** 3
 * **Mentor relationship:** Done
-* **Gold certification completed:**
+* **Gold certification completed:** Yes
+* **Gold badge:** [Parchment Gold Certification](https://badges.parchment.com/public/assertions/2x6Bc9IZTKaDHPcq_fZYOQ?utm_source=url_copy&identity__email=gne21002@byui.edu)
+* **Silver badge:** [BYU Idaho Silver Certification](https://byui.badges.parchment.com/public/assertions/q2nDOcMrQvWKWv5TWswmvg?identity__email=gne21002@byui.edu)
 
 ## Evidence and Notes
 
@@ -78,6 +80,9 @@ Gold Students Progress Reports
 * Role: Principle Investigator
 * Organization: Infinity Labs
 * Notes: The connection I used to get a Job as a ML engineer in Infinity Labs.
+
+### Appointment Evidence
+* Career mentor appointment requested/scheduled in Handshake
 
 ## Weekly Checklist
 - [ ] Add at least 1 interview summary

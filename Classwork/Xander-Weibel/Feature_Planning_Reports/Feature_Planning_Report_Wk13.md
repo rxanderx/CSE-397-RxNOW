@@ -44,27 +44,6 @@
 
 * **Planned Delivery**: v5.0 — Week 13 (Quality & Process Maturity cycle; final feature cycle ahead of v6.0 Week 14 hand-off)
 
-* **Schedule**:
-```mermaid
-gantt
-    title Feature 05 — MVP Finalization & Closeout
-    dateFormat  YYYY-MM-DD
-    section Confirmation
-    Regression pass: Pharmacy, fax, notifications, mailto :done, 2026-07-07, 3d
-    section Decisions Closed
-    Pharmacy scoping — confirmed per-user              :done, 2026-07-09, 1d
-    url_launcher confirmed as final mailto: mechanism   :done, 2026-07-09, 1d
-    Single-device MVP constraint — accepted, documented :done, 2026-07-10, 1d
-    Username login — confirmed in scope, spec corrected :done, 2026-07-10, 1d
-    section Documentation
-    SDD Sections 4-6 rewrite (local architecture)       :done, 2026-07-08, 3d
-    ERD + openapi.yaml Auth correction                  :done, 2026-07-11, 2d
-    FR24/DB10 added to SRS                              :done, 2026-07-11, 1d
-    section Repository
-    Legacy Render/Aiven code archived to branch         :done, 2026-07-12, 1d
-    section Review
-    Team review & QA sign-off                           :active, 2026-07-13, 2d
-```
 
 * **Known Dependencies / Obstacles**:
   - None blocking. This cycle had no new build dependencies — it consumed and confirmed work already in place from Features 03/04.
@@ -133,13 +112,6 @@ These were the open items carried since Feature 03/04. Each is now decided, not 
 7. **Repository cleanup — legacy Render/Aiven code archived** to a separate branch (`archive/render-aiven-backend`) rather than left in `main`, ahead of final hand-off.
 8. **Automated eFax — reaffirmed out of scope**, unchanged from Feature 04. Flagged for future-cohort planning only; the `mailto:` message-generation logic remains architected so a future team can swap in real fax transmission without a rewrite.
 
----
-
-### Open Items Carried Into Week 14 (Final Delivery)
-None of the items above carry forward as open decisions. The only remaining Week 14 activities are hand-off mechanics, not design questions:
-1. **Final QA sign-off** on the Week 13 regression pass (Joshua Palmer).
-2. **Hand-off packet assembly** — SRS, SDD, ERD, decision logs, and this report bundled per VDD 3.0 / Louis's installation guide. *Owner: Xander.*
-3. **Future-cohort note for automated eFax** — carried as a documented future enhancement only, not an in-flight task. *Owner: N/A, informational.*
 
 ---
 

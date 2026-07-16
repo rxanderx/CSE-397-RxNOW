@@ -21,7 +21,7 @@ Update the GitHub issue attributes
     - Ethics:[Technology Analysis:](https://github.com/byui-cse397/2026.2SprCSE397PCP/blob/Tolley_Wk12/artifacts/staffing/Tolley/Ethics/ethicsTechnology.md)
 
 ## Project Teamwork Meeting [Minutes]()(10 pts)
- - [x] [Weekly Meeting with team](https://github.com/rxanderx/CSE-397-RxNOW/tree/main/Teamwork)
+ - [x] [Weekly Meeting with team](https://github.com/rxanderx/CSE-397-RxNOW/blob/main/Teamwork/Team-Notes/July7th.md)
 
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:

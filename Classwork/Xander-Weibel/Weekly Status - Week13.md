@@ -14,10 +14,7 @@ Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Wee
 
 | NAME | LINK TO KANBAN ISSUE |
 --|--
-| Gathered requirements and polishing from Louis and streamlined them into actionable items + Priorities for the team | [LINK TO MESSAGE ON MSTEAMS](https://teams.microsoft.com/l/message/19:83aa24f5fe384db5900685592a0203af@thread.tacv2/1783020577905?tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&groupId=d33e876c-f286-4729-9c94-7e9fd0d7f5bf&parentMessageId=1783020577905&teamName=26Spr%20CSE%20397%20Professional%20Career%20Prj&channelName=RxNow&createdTime=1783020577905)|
-| Created initial Developer Guide| [LINK TO KANBAN ISSUE](https://miro.com/app/board/uXjVHW1B9x4=/?openSyncedCardPanel=uXjVHW1B9xo%3D:fe677d0c-8a17-403e-9a36-bd266a9b58d6:3458764670953758822:details)|
-| Created Presentation Slides for Current issues with Medication | [LINK TO KANBAN ISSUE](https://miro.com/app/board/uXjVHW1B9x4=/?openSyncedCardPanel=uXjVHW1B9xo%3D:d126e76f-20df-4d55-99a3-e4521f7e5565:3458764670953758822:details) |
-| Created Presentation Slides for How our solution is different from other solutions and what they miss | Same link as above artifact  |
-| Created Presentation Slides for technical implementation of our solution | Same link as above artifact |
-|  | [LINK TO KANBAN ISSUE]() |
+| Finalized Presentation Slide 5 + 10 | [Link to Presentation]()|
+| Finalized Presentation Slide 11 | [Link to Presentation]() |
+| Met with Louis and communicated final expectations and handoff | No Link |
 |  | [LINK TO KANBAN ISSUE]() |

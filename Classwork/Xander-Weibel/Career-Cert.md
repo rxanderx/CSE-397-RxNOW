@@ -39,4 +39,8 @@ It is expected that each student will work for about an hour each week to get th
 * Updated LinkedIn to display my AWS badge
 * added 6 connections on LinkedIn
 * Had informational interview (still need 1 more for a total of 11)
+# July 11 - July 18
+* Reached my 100 connection mark on LinkedIn
+* Had my final informational interview
+* Set up my review with career center to get Gold cert on Monday
 * [Linkedin Page for current progress](https://www.linkedin.com/in/xander-weibel-55a5b8173/)

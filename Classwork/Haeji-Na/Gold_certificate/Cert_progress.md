@@ -25,3 +25,6 @@
 
 * Conducted one informational interview. I still need 4 more to reach the total goal of 11.
 * I was not able to make much progress this week because I was sick.
+
+# July 20 - July 24
+* [Obtain a Gold Certificate](https://www.linkedin.com/posts/haejina_excited-to-share-that-i-earned-my-gold-career-share-7485080450332323840-5Cd4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcwgwwBy3Y_CVhejTpumMjDxzZ3KBZP1AM)

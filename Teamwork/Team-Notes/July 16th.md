@@ -56,11 +56,11 @@ The team met to assign specific slides and speaking topics for their upcoming pr
 * Prepare to read and present Slide 6 ("Workflow Request").
 * Develop and split Slide 10 to cover future application implementations, features, and rollout.
 
-### **Xander Weibel** *(Absent)*
+### **Xander Weibel** 
 * Assigned to update and present the Front-End (Slide 7) due to his reliability with the mobile interface.
 * Assigned to speak on Slide 5 and contributing a quote to Slide 11.
 
-### **Josh Palmer** *(Absent)*
+### **Josh Palmer**
 * Tentatively assigned to handle the Security Review portion of Slide 10 and a closing quote on Slide 11.
 
 ---

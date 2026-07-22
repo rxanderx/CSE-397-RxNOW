@@ -19,8 +19,8 @@ Update the GitHub issue attributes
  - [x] Professional Networking Certification: [Career Services Gold Certificate (every week)](../Tolley_CertificationReport.md)
  - [X] Professional Training- All Completed
  - [X] [Dossier Completed](../Tolley_dossier.md)
-## Project Teamwork Meeting [Minutes]()(10 pts)
- - [x] [Weekly Meeting with team]()
+## Project Teamwork Meeting [Minutes](https://www.youtube.com/watch?v=idm--t3Ulj0)(10 pts)
+ - [x] No meeting, we created the presentation video
 
 ## Project Individual Work (10 pts)
 In Agile Daily Scrum meetings each individual are asked three questions:
@@ -34,12 +34,12 @@ In Agile Daily Scrum meetings each individual are asked three questions:
 * Back-End Lead (current week)
  - [x] Issue Tasking (every week)[see product repo's issues](https://miro.com/app/board/uXjVHW1B9x4=/) (50 pts - 5 per week @ 10 pts each)
 * [Feature](https://miro.com/app/board/uXjVHW1B9x4=/) Tasking completed This week (50 pts - 10 pts per completed task)
-   - [x] 14.1. [Version-6.0](https://github.com/louisramos23/RXNOW/tree/main/Documents/VDD%20documents)
+   - [x] 14.1. [Version-6.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/6.0%20VDD.md)
    - [x] 14.2. [Final APK](https://github.com/louisramos23/RXNOW/tree/main/Frontend/build/app/outputs/flutter-apk)
    - [x] 14.3. [Contribute to Powerpoint](https://docs.google.com/presentation/d/11r-jkIlPSOXg6ONkI74jsS2wVa-TJwot_6zLJskakU4/edit?slide=id.g3f552822d11_6_1#slide=id.g3f552822d11_6_1)
-   - [x] 14.4  [Presentation]()
+   - [x] 14.4  [Presentation](https://youtu.be/idm--t3Ulj0)
    - [x] 14.5  [Update documentation](https://github.com/louisramos23/RXNOW/tree/main/Documents)
-   - [x] 14.6  Clean up Repo's (class, project, team)
+   - [x] 14.6  Clean up repos (class, project, team)
       
 * LAST WEEK, no future tasking! Project in its [final form](https://github.com/louisramos23/RXNOW/tree/main) before handoff to next team
 

@@ -11,7 +11,7 @@
   ![Profile Photo](./Professional%20Photo.jpg)
 
 * **[Resume](./Resume%20Infinity.pdf)**  
-* **[LinkedIn Profile](www.linkedin.com/in/kelson-gneiting-2275892a0)**  
+* **[LinkedIn Profile](https://www.linkedin.com/in/kelson-gneiting-2275892a0)**  
 * **[BYUi Connect](https://ces.peoplegrove.com/profile/kelsongneiting/)**  
 * **[Handshake](https://byui.joinhandshake.com/profiles/f2bhtz)**  
 
@@ -84,47 +84,47 @@ Complete the Following through out the semester
 ## Professional Development
 ### Certifications
 * Career Center
-    * [Silver](/* put link here */)
-    * [Gold](./Gneiting_CertificationReport.md)
-* AWS [Final Certificate](/* put link here */)
+    * [Silver](https://byui.badges.parchment.com/public/assertions/q2nDOcMrQvWKWv5TWswmvg?identity__email=gne21002@byui.edu)
+    * [Gold](./Gold/Gneiting_CertificationReport.md)
+* AWS [Final Certificate](./AWS.md)
 ### Ethics
-  * [Ethics in Technology - Tradeoff and Personal Responsibility](/* put link here */)
-  * [Engineering Ethics Paper](/* put link here */)
-  - [ ] Completed Ethics Quiz
-  - [ ] Completed Test: Idaho Laws (ABET)
+  * [Ethics in Technology - Tradeoff and Personal Responsibility](./Templates/EthicalTrainingTradeoffs.md)
+  * [Engineering Ethics Paper](./Templates/EthicalTrainingPaper.md)
+  - [x] Completed Ethics Quiz
+  - [x] Completed Test: Idaho Laws (ABET)
 ### Career Development
 * The 2-Hour Job Search
-    * [Part 1](./2-hour/2-hour_p1.md)
-    * [Part 2](./2-hour/2-hour_p2.md)
-    * [Part 3](./2-hour/2-hour_p3.md)
+    * [Part 1](./2hr%20Job%20Search/Part1.md)
+    * [Part 2](./2hr%20Job%20Search/Part2.md)
+    * [Part 3](./2hr%20Job%20Search/Part3.md)
 * Job Research
-    * [Tracking / Notes](./Jobs/)
+    * [Tracking / Notes](./Job%20Search/JobSearch.md)
 
 ---
 ## Project Status
 * Product
-  * [Product Repo(s)](/* put link here */)
-  * [Delivery Product(s)](/* put link here */)
-  * [Presentation](/* put link here */)
+  * [Product Repo(s)](https://github.com/louisramos23/RXNOW)
+  * [Delivery Product(s)](https://github.com/louisramos23/RXNOW/tree/main)
+  * [Presentation](https://youtu.be/idm--t3Ulj0)
 * Documentation
-  * [Elicitation Data](/* put link here */)
-  * [SRS - SW Requirements Spec](/* put link here */)
-  * [SDD - SW Design Description](/* put link here */)
-  * [STP - SW Test Plan](/* put link here */)
-  * [SIP - SW Installation Plan](/* put link here */)
-  * [USR - User Guide](/* put link here */)
-  * [SDG - SW Developer Guide](/* put link here */)
+  * [Elicitation Data](https://github.com/louisramos23/RXNOW/blob/main/Documents/Requirements_Elicitation.md)
+  * [SRS - SW Requirements Spec](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareRequirementsSpecification.md)
+  * [SDD - SW Design Description](https://github.com/louisramos23/RXNOW/blob/main/Documents/SoftwareDesignDocumentSDD.md)
+  * [STP - SW Test Plan](https://github.com/louisramos23/RXNOW/blob/main/Documents/RxNow-Test-Plan-v0.2.pdf)
+  * [SIP - SW Installation Plan](https://github.com/louisramos23/RXNOW/blob/main/Documents/fileStructure.md)
+  * [USR - User Guide](https://github.com/louisramos23/RXNOW/blob/main/Documents/User_Manual_Guide.md)
+  * [SDG - SW Developer Guide](https://github.com/louisramos23/RXNOW/blob/main/Documents/RxNow-Developer-Guide.md)
 * VDD - Version Description
-  * [Version 0.0](/* put link here */)
-  * [Version 1.0](/* put link here */)
-  * [Version 2.0](/* put link here */)
-  * [Version 3.0](/* put link here */)
-  * [Version 4.0](/* put link here */)
-  * [Version 5.0](/* put link here */)
-  * [Version 6.0](/* put link here */)
+  * [Version 0.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/Version%200.0%20VDD.md)
+  * [Version 1.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/1.0%20vdd.md)
+  * [Version 2.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/2.0%20vdd.md)
+  * [Version 3.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/3.0%20VDD.md)
+  * [Version 4.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/4.0%20VDD.md)
+  * [Version 5.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/5_0_VDD.md)
+  * [Version 6.0](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/6.0%20VDD.md)
 * White Papers
-  * Week 05: Software Architecture
-  * Week 07: Software Lifecycles and Methodologies
-  * Week 09: Software Concepts
-  * Week 11: Networking
-  * Week 13: Quality Assurance
+  * [Week 05: Software Architecture](./Wk5/WhitePaper.md)
+  * [Week 07: Software Lifecycles and Methodologies](./Wk7/Whitepaper.md)
+  * [Week 09: Software Concepts](./Wk9/Whitepaper.md)
+  * [Week 11: Networking](./Wk11/WhitePaper.md)
+  * [Week 13: Quality Assurance](./Wk13/Whitepaper.md)

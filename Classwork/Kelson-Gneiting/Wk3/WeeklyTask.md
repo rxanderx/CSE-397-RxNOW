@@ -92,7 +92,7 @@ Since this is a 3 credit class, and you are spending about 9 hours a week workin
 
 <!----------------------------
 ------------------------------->
- - [ ] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
+ - [ ] Issue Tasking (every week) [See Kanban Board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987) (50 pts - 5 per week @ 10 pts each)
 - Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
 <!-- List all the issues that you completed this week and what you plan on working next week.
 

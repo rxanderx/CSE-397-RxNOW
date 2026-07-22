@@ -21,6 +21,8 @@ Update the GitHub issue attributes
 * **Milestone**: Week 12 — v4.0 UX & Docs Handoff
 * **Projects**: RXNow MVP
 * **Development (Branch)**: gneitblood/Kelson
+* **Issue Board**: [RXNow Kanban Board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
+* **Associated Role Planning Report**: [Week 12 Role Report](./RoleReport.md)
 <!-- See project/enggering/processes/VersionControl.md,
 This should also match tasking information your made at the beginning of the semseter.
 /project/engineering/processes/StudentSetup.md
@@ -94,7 +96,7 @@ Since this is a 3 credit class, and you are spending about 9 hours a week workin
 
 <!----------------------------
 ------------------------------->
- - [x] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
+ - [x] Issue Tasking (every week) [See Kanban Board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987) (50 pts - 5 per week @ 10 pts each)
 - Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
 <!-- List all the issues that you completed this week and what you plan on working next week.
 

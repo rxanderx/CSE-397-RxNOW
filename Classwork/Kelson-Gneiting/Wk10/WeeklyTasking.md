@@ -53,7 +53,7 @@ Since this is a 3 credit class, and you are spending about 9 hours a week workin
     - [x] Research Tasking (05 pts) (every other week)[/project/engineering/practices/research]: Reviewed Scrum Master process references and team architecture notes for dependency planning
 
 
- - [x] Issue Tasking (every week)[see product repo's issues] (50 pts - 5 per week @ 10 pts each)
+ - [x] Issue Tasking (every week) [See Kanban Board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987) (50 pts - 5 per week @ 10 pts each)
 - Note: Derived from meeting and discussing Planning Tasking and Research Tasking - expect 1 task from each teammember and role every two weeks].
 * [Scheduled](../management/scheduling/Readme.md) Tasking completed This week (50 pts - 10 pts per completed task)
     - [Role](../management/planning/rolePlanningReport.md)/[Feature](../management/planning/featurePlanningReport.md)/[Research](../engineering/practices/Research/Readme.md) Stories

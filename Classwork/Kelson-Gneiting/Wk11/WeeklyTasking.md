@@ -46,7 +46,7 @@
     - [x] White Paper (in progress): [White Paper — Hosting: AWS, GitHub, Heroku, Google, Other](./WhitePaper.md)
 
 
- - [x] Issue Tasking (every week)
+ - [x] Issue Tasking (every week) [See Kanban Board](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 
 * Tasking completed This week (50 pts - 10 pts per completed task)
     - Feature / Scrum Master Stories

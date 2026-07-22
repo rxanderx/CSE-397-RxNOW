@@ -70,9 +70,10 @@ gantt
   - `mailto:` integration is in progress and carries into Week 12; User Manual will need a final update once that flow is complete.
 
 * **GitHub**:
-    * **GitHub Issue Number**: (see Kanban board)
+  * **GitHub Issue Number**: [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
     * **GitHub Branch**: `feature/04`
     * **GitHub Project**: RXNow MVP
+  * **Issue Board Link**: [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 
 
 ---
@@ -323,7 +324,7 @@ erDiagram
     - [x] Agile
     - [x] Detailed Design
 - [ ] Epic Story is created in the project's repo Issue
-    * Issue Number (Reference):
+    * Issue Number (Reference): [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 - [ ] Sub stories are created as the project's repo Issues
     * Issue Number 1 (Front-End — Pharmacy dropdown/form + User Manual):
     * Issue Number 2 (Back-End/Local Storage — Pharmacy entity, fax required):

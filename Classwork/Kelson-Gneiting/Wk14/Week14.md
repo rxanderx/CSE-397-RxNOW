@@ -4,7 +4,7 @@
         * [Work on Gold Certificate](../../training/CC_CareerReadiness.md)
         * [Work on Career Prepartion: AWS MOdule 01 & 02](../../training/AWSTraining.md)
     * Planning/Prepare
-        * [SW Presentation]()
+        * [SW Presentation](https://youtu.be/idm--t3Ulj0)
     * Completed Worrk
         * Story 4.1: Check in all code
         * Story 4.2: Merge all branches
@@ -12,8 +12,8 @@
         * Story 4.4: Work on Presentation
         * Story 4.5: 
     * Reporting
-        * [Version 6.0: Final Delivery](../planning/versionPlanning.md)
-        * Presentation
+        * [Version 6.0: Final Delivery](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/6.0%20VDD.md)
+        * [Presentation](https://youtu.be/idm--t3Ulj0)
         * [Weekly Status](../../tasking/Readme.md)
     </details>
 
@@ -42,6 +42,6 @@
 - Story 14.5: Complete retrospective and action log.
 
 ## Reporting
-- [Version 6.0: Final Delivery](../planning/versionPlanning.md)
-- Final presentation and demo
+- [Version 6.0: Final Delivery](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/6.0%20VDD.md)
+- [Final presentation and demo](https://youtu.be/idm--t3Ulj0)
 - [Weekly Status / Tasking](../../tasking/Readme.md)

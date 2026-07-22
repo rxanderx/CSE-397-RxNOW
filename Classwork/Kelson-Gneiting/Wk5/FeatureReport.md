@@ -54,9 +54,10 @@ gantt
     - Some implementation evidence is external to this classwork repo
     - GitHub issue IDs for observer retrospective are pending
 * **GitHub**
-        * **GitHub Issue Number**: TBD (Observer retrospective issue)
+  * **GitHub Issue Number**: [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
         * **GitHub Branch**: observer/wk5-feature-retrospective
         * **GitHub Project**: RXNOW Core MVP
+  * **Issue Board Link**: [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 
 
 ---
@@ -294,7 +295,7 @@ erDiagram
     - [x] Agile
     - [x] Detailed Design
 - [x] Epic Story is created in the project's repo Issue
-    * Issue Number (Reference): TBD for observer retrospective
+    * Issue Number (Reference): [RxNOW Kanban Board - Miro](https://miro.com/app/board/uXjVHW1B9x4=/?share_link_id=2185336987)
 - [x] Sub stories are created as the project's repo Issues
     * Issue Number 1 (i.e. Front-End): TBD
     * Issue Number 2 (i.e. Back-End): TBD

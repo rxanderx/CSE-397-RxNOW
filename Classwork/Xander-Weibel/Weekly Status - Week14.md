@@ -15,5 +15,7 @@ Our equivalent of Planning Tasking / Research Tasking / Issue Tasking / Next Wee
 --|--
 | Recorded infomercial | [Link to Unlisted YT Vid](https://www.youtube.com/watch?v=idm--t3Ulj0)|
 | Finished VDD6.0 | [Link to VDD](https://github.com/louisramos23/RXNOW/blob/main/Documents/VDD%20documents/6.0%20VDD.md)|
+| Followed up with Louis on status & got approval for project description to put on LinkedIn | No Link |
+
 
 
